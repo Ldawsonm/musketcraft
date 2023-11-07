@@ -1,0 +1,11 @@
+{
+  "generator.biome_preset.xxx-small":"XXX Small Biomes",
+  "generator.biome_preset.xx-small":"XX Small Biomes",
+  "generator.biome_preset.extra-small":"Extra-Small Biomes",
+  "generator.biome_preset.small":"Small Biomes",
+  "generator.biome_preset.semi-small":"Semi-Small Biomes",
+  "generator.biome_preset.semi-large":"Semi-Large Biomes",
+  "generator.biome_preset.extra-large":"Extra-Large Biomes",
+  "generator.biome_preset.xx-large":"XX Large Biomes",
+  "generator.biome_preset.xxx-large":"XXX Large Biomes"
+}

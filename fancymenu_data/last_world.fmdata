@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/ldmar/curseforge/minecraft/Instances/Musketeer - One for All/saves/New World (26)
+}
+

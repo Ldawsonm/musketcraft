@@ -1,0 +1,24 @@
+{
+  "allowMovement": {
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "net.minecraft.client.gui.screens.ReceivingLevelScreen": true,
+    "pepjebs.mapatlases.client.screen.AtlasOverviewScreen": true,
+    "com.talhanation.smallships.client.gui.screens.inventory.ShipContainerScreen": true,
+    "vazkii.quark.content.experimental.client.screen.VariantSelectorScreen": true,
+    "com.talhanation.recruits.client.gui.RecruitHireScreen": true,
+    "com.talhanation.recruits.client.gui.team.TeamMainScreen": true,
+    "com.talhanation.recruits.client.gui.CommandScreen": true,
+    "vazkii.quark.addons.oddities.client.screen.CrateScreen": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.PulleyBlockScreen": true
+  },
+  "hideBackground": {
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "pepjebs.mapatlases.client.screen.AtlasOverviewScreen": true,
+    "com.talhanation.smallships.client.gui.screens.inventory.ShipContainerScreen": true,
+    "com.talhanation.recruits.client.gui.RecruitHireScreen": true,
+    "com.talhanation.recruits.client.gui.team.TeamMainScreen": true,
+    "com.talhanation.recruits.client.gui.CommandScreen": true,
+    "vazkii.quark.addons.oddities.client.screen.CrateScreen": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.PulleyBlockScreen": true
+  }
+}
