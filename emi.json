@@ -1,6 +1,15 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:minecraft:andesite",
+    "#item:forge:stone",
+    "item:quark:white_rune",
+    "item:quark:orange_rune",
+    "item:quark:blank_rune",
+    "item:quark:red_corundum",
+    "item:quark:magenta_rune",
+    "item:minecraft:name_tag",
+    "item:minecraft:golden_pickaxe{Damage:0}",
     {
       "type": "item",
       "id": "windswept:frozen_flesh",
@@ -60,7 +69,6 @@
     "item:quark:trowel",
     "item:quark:hammer",
     "item:chalk:chalk_box{Items:[{Count:0b,id:\"minecraft:air\",tag:{\"quark:RuneColor\":{Count:1b,id:\"quark:blank_rune\"}}},{Count:0b,id:\"minecraft:air\",tag:{\"quark:RuneColor\":{Count:1b,id:\"quark:blank_rune\"}}},{Count:0b,id:\"minecraft:air\",tag:{\"quark:RuneColor\":{Count:1b,id:\"quark:blank_rune\"}}},{Count:0b,id:\"minecraft:air\",tag:{\"quark:RuneColor\":{Count:1b,id:\"quark:blank_rune\"}}},{Count:0b,id:\"minecraft:air\",tag:{\"quark:RuneColor\":{Count:1b,id:\"quark:blank_rune\"}}},{Count:0b,id:\"minecraft:air\",tag:{\"quark:RuneColor\":{Count:1b,id:\"quark:blank_rune\"}}},{Count:0b,id:\"minecraft:air\",tag:{\"quark:RuneColor\":{Count:1b,id:\"quark:blank_rune\"}}},{Count:0b,id:\"minecraft:air\",tag:{\"quark:RuneColor\":{Count:1b,id:\"quark:blank_rune\"}}},{Count:0b,id:\"minecraft:air\",tag:{\"quark:RuneColor\":{Count:1b,id:\"quark:blank_rune\"}}}]}",
-    "item:minecraft:name_tag",
     "item:minecraft:spyglass",
     "item:minecraft:bundle",
     "item:quark:backpack{Inventory:[{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}]}",
@@ -261,6 +269,7 @@
     "item:quark:orange_crystal_lamp"
   ],
   "craft_history": [
+    "crafttweaker:gold_pick_revamped",
     "quark:building/crafting/chests/oak_chest",
     "minecraft:firework_rocket",
     "minecraft:black_bed",
