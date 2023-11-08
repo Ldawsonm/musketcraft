@@ -793,7 +793,7 @@
 	"Fairy Rings" = true
 	Corundum = true
 	"Chorus Vegetation" = false
-	"Blossom Trees" = true
+	"Blossom Trees" = false
 	"Big Stone Clusters" = true
 	"Azalea Wood" = true
 	"Ancient Wood" = true
@@ -1572,7 +1572,7 @@
 
 	[client.improved_tooltips]
 		"Attribute Tooltips" = false
-		"Food Tooltips" = true
+		"Food Tooltips" = false
 		"Shulker Tooltips" = true
 		"Map Tooltips" = true
 		"Enchanting Tooltips" = false

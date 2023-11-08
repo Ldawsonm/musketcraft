@@ -1,6 +1,6 @@
 {
-  "pack": {
-    "pack_format": 16,
-    "description": "Made for MusketCraft. Texture credit to WinterComputer on Planet Minecraft"
-  }
+	"pack": {
+		"pack_format": 13,
+		"description": [{"text":"Muskets and new swords \n","color":"gray","bold":false},{"text":"Made by winter <3","color":"gray","bold":false}]
+	}
 }

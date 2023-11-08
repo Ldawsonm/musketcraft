@@ -13,9 +13,6 @@
 			holly = true
 			chestnut = true
 
-		[types.wood_type.habitat]
-			fairy_ring_mushroom = true
-
 	[types.leaves_type]
 
 		[types.leaves_type.quark]
@@ -231,9 +228,6 @@
 			ash_bricks = true
 			stone_tile = true
 			blackstone_tile = true
-
-		[types.cut_block_type.habitat]
-			fairy_ring_mushroom = true
 
 		[types.cut_block_type.betteramethyst]
 			amethyst_bricks = true

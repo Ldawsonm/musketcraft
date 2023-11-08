@@ -43,7 +43,7 @@
 		#Effect renderer to be used.
 		#This setting might not be respected when not enough screen space is available. To force this setting disable "allow_fallback".
 		#Allowed Values: NONE, GUI_SMALL, GUI_COMPACT, INVENTORY_COMPACT, INVENTORY_FULL_SIZE
-		renderer_type = "GUI_COMPACT"
+		renderer_type = "NONE"
 
 	[renderers.gui_renderer]
 		#Respect vanilla's "hideParticles" flag which prevents a status effect from showing when set via commands.
@@ -55,7 +55,7 @@
 		allow_fallback = false
 		#Maximum amount of status effects rendered in a single row.
 		#Range: 1 ~ 255
-		max_columns = 5
+		max_columns = 1
 		#Screen side to render status effects on.
 		#Allowed Values: LEFT, RIGHT
 		screen_side = "RIGHT"
@@ -121,7 +121,7 @@
 		#Should the effect icon start to blink when the effect is running out.
 		blinking_alpha = true
 		#Should effect widgets have a blue or red border depening on if they are beneficial or not.
-		quality_border = false
+		quality_border = true
 		#Show duration for ambient effects.
 		ambient_duration = true
 		#Should ambient effect widgets have a cyan colored border.

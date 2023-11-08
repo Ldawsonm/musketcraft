@@ -1,7 +1,6 @@
 {
     "replace": true,
     "values": [
-        "minecraft:compass",
-        "dyeablecompasses:dyed_compass"
+        "minecraft:compass"
     ]
 }

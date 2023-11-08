@@ -27,6 +27,6 @@
     "jei_info.musketeer.carpets": "When set to Carpet in the variant selector, Wool can be used on any placed Stair blocks to add a carpet to the top.",
     "jei_info.musketeer.mending": "The Mending enchantment now works in a different way. When applied to an item, it'll reset its anvil uses, getting rid of \"Too Expensive!\". If an item already has Mending on it, next time it's repaired it'll have the same effect and lose Mending.",
 
-    "hidden_tooltip.musketeer":"Disabled by Musketeer. Please do not use.",
+    "hidden_tooltip.musketeer":"Disabled by MusketCraft. Please do not use.",
     "hidden_tooltip.variant":"Disabled as Item. Drop to revert to base version."
 }
