@@ -5,6 +5,14 @@ blaze_rod.setBurnTime(0);
 
 craftingTable.addShapeless("monster_mash", blaze_rod, [<item:minecraft:string>, <item:minecraft:gunpowder>, <item:minecraft:rotten_flesh>, <item:minecraft:bone>, <item:minecraft:slime_ball>, <item:minecraft:spider_eye>]);
 
+# Monster Mash Variants
+
+# Pillager Banner
+craftingTable.addShapeless("monster_mash2", blaze_rod, [<item:minecraft:string>, <item:minecraft:gunpowder>, <item:minecraft:rotten_flesh>, <item:minecraft:bone>, <item:minecraft:white_banner>.withTag({BlockEntityTag: {Patterns: [{Pattern: "mr", Color: 9}, {Pattern: "bs", Color: 8}, {Pattern: "cs", Color: 7}, {Pattern: "bo", Color: 8}, {Pattern: "ms", Color: 15}, {Pattern: "hh", Color: 8}, {Pattern: "mc", Color: 8}, {Pattern: "bo", Color: 15}], id: "minecraft:banner"}, display: {Name: "{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}"}}), <item:minecraft:spider_eye>]);
+
+# Forgotten Hat
+craftingTable.addShapeless("monster_mash3", blaze_rod, [<item:minecraft:string>, <item:minecraft:gunpowder>, <item:minecraft:rotten_flesh>, <item:minecraft:bone>, <item:quark:forgotten_hat>, <item:minecraft:spider_eye>]);
+
 // Magma Powder
 var blaze_powder = <item:minecraft:blaze_powder>;
 

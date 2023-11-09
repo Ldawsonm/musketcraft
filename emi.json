@@ -1,18 +1,19 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:minecraft:white_wool",
+    "item:minecraft:string",
+    "item:minecraft:blaze_rod",
+    "item:minecraft:ender_eye",
+    "item:minecraft:dragon_breath",
+    "item:minecraft:glow_berries",
+    "item:minecraft:white_banner{BlockEntityTag:{Patterns:[{Color:9,Pattern:\"mr\"},{Color:8,Pattern:\"bs\"},{Color:7,Pattern:\"cs\"},{Color:8,Pattern:\"bo\"},{Color:15,Pattern:\"ms\"},{Color:8,Pattern:\"hh\"},{Color:8,Pattern:\"mc\"},{Color:15,Pattern:\"bo\"}],id:\"minecraft:banner\"},display:{Name:\u0027{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}\u0027}}",
     "item:minecraft:lime_banner",
     "item:minecraft:lapis_lazuli",
-    "item:minecraft:white_banner{BlockEntityTag:{Patterns:[{Color:9,Pattern:\"mr\"},{Color:8,Pattern:\"bs\"},{Color:7,Pattern:\"cs\"},{Color:8,Pattern:\"bo\"},{Color:15,Pattern:\"ms\"},{Color:8,Pattern:\"hh\"},{Color:8,Pattern:\"mc\"},{Color:15,Pattern:\"bo\"}],id:\"minecraft:banner\"},display:{Name:\u0027{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}\u0027}}",
     "item:minecraft:golden_boots{Damage:0}",
     "item:minecraft:golden_helmet{Damage:0}",
     "item:minecraft:leather_boots{Damage:0}",
     "item:minecraft:diamond_axe{Damage:0}",
-    {
-      "type": "item",
-      "id": "minecraft:blaze_rod",
-      "amount": 64
-    },
     "item:minecraft:golden_pickaxe{Damage:0}",
     "item:minecraft:crossbow{Charged:1b,ChargedProjectiles:[{Count:1b,id:\"minecraft:arrow\"}],Damage:0}",
     {
@@ -93,7 +94,6 @@
       "id": "windswept:frozen_flesh",
       "amount": 3
     },
-    "item:minecraft:glow_berries",
     "item:minecraft:glowstone_dust",
     "item:berry_good:glow_berry_pips",
     "item:windswept:wild_berry_juice",
@@ -208,7 +208,6 @@
     "item:quark:iron_pillar",
     "item:minecraft:sugar_cane",
     "item:minecraft:sugar",
-    "item:minecraft:dragon_breath",
     "item:quark:glow_shroom",
     "item:quark:ancient_fruit",
     "item:windswept:wild_berry_bowl",
@@ -268,7 +267,6 @@
       "amount": 4
     },
     "item:quark:jasper",
-    "item:minecraft:white_wool",
     "item:minecraft:shears{Damage:0}",
     {
       "type": "item",
@@ -278,7 +276,6 @@
     "item:minecraft:honey_block",
     "item:minecraft:black_dye",
     "item:minecraft:magma_cream",
-    "item:minecraft:string",
     "item:minecraft:recovery_compass",
     "item:minecraft:echo_shard",
     "item:minecraft:crimson_fungus",
@@ -293,7 +290,6 @@
     "item:comforts:sleeping_bag_white",
     "item:moreminecarts:lightspeed_powered_rail",
     "item:minecraft:blaze_powder",
-    "item:minecraft:ender_eye",
     "item:minecraft:splash_potion{Potion:\"minecraft:awkward\"}",
     "item:minecraft:iron_ingot",
     "item:minecraft:emerald",
@@ -322,6 +318,7 @@
     "item:quark:orange_crystal_lamp"
   ],
   "craft_history": [
+    "berry_good:glow_berry_pips",
     "minecraft:stone_bricks",
     "crafttweaker:gold_pick_revamped",
     "quark:building/crafting/chests/oak_chest",
