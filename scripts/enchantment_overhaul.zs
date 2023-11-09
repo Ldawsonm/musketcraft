@@ -17,6 +17,7 @@ craftingTable.remove(<item:minecraft:enchanting_table>);
 
 var counter = 1;
 
+# CREATE ENCHANTMENT RECIPES
 for enchant, material in enchant_upgrades {
     craftingTable.addShaped("enchanted_book" + counter, <item:minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1, id: enchant}]}), 
         [[material, lapis, material],
@@ -24,6 +25,12 @@ for enchant, material in enchant_upgrades {
          [material, lapis, material]]);
     counter += 1;
 }
+
+# VEIN MINING ENCHANTMENT
+craftingTable.addShaped("vein_mining_book", <item:minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1, id: "veinmining:vein_mining"}]}),
+    [[<item:minecraft:golden_pickaxe>, lapis, <item:minecraft:golden_axe>],
+    [lapis, book, lapis],
+    [<item:minecraft:golden_shovel>, lapis, <item:minecraft:golden_hoe>]]);
 
 # MAKE ENCHANT BOOKS STACKABLE TO 64
 <item:minecraft:enchanted_book>.maxStackSize = 64;

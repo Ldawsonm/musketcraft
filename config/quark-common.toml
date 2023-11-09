@@ -1134,7 +1134,7 @@
 					"Is Blacklist" = true
 
 		[world.blossom_trees.yellow]
-			Rarity = 800
+			Rarity = 1600
 
 			[world.blossom_trees.yellow.dimensions]
 				"Is Blacklist" = false

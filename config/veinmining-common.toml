@@ -9,13 +9,13 @@
 	#Whether or not to consider this enchantment as a treasure
 	isTreasure = false
 	#Whether or not this enchantment can be offered by villagers for trade
-	isVillagerTrade = true
+	isVillagerTrade = false
 	#Whether or not this enchantment can generate in loot
-	isLootable = true
+	isLootable = false
 	#Whether or not this enchantment can be applied at the enchanting table
-	canApplyAtEnchantingTable = true
+	canApplyAtEnchantingTable = false
 	#Whether or not this enchantment can be applied on books
-	canApplyOnBooks = true
+	canApplyOnBooks = false
 	#The minimum enchantability requirement for the first enchantment level
 	#Range: 1 ~ 100
 	minEnchantabilityBase = 15
@@ -25,5 +25,5 @@
 	#List of enchantments that cannot be applied together with this enchantment
 	incompatibleEnchantments = []
 	#List of items that the enchantment can be applied on
-	items = ["is:tool", "quark:pickarang", "quark:flamerang"]
+	items = ["is:tool"]
 

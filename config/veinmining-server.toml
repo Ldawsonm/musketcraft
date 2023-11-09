@@ -10,7 +10,7 @@
 	maxDistanceBase = 0
 	#The maximum number of blocks to mine per level of the enchantment
 	#Range: 1 ~ 1000
-	maxBlocksPerLevel = 50
+	maxBlocksPerLevel = 64
 	#The maximum distance from the source block per level of the enchantment
 	#Range: 1 ~ 100
 	maxDistancePerLevel = 15

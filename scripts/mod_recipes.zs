@@ -16,12 +16,12 @@ craftingTable.addShaped("backpack_but_expensive",
 		 [leather, diamond, leather]]);
 
 // Drawers with Iron
-craftingTable.remove(drawers);
-craftingTable.addShaped("drawers_with_iron",
-		drawers,
-		[[iron, planks, iron],
-		[air, chest, air],
-		[iron, planks, iron]]);
+// craftingTable.remove(drawers);
+// craftingTable.addShaped("drawers_with_iron",
+// 		drawers,
+// 		[[iron, planks, iron],
+// 		[air, chest, air],
+// 		[iron, planks, iron]]);
 
 // Remove weird Absent By Design recipes
 craftingTable.removeByName("absentbydesign:stripped_oak_wood");

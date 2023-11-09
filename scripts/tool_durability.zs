@@ -3,7 +3,7 @@ var stone = 192;
 var iron = 512;
 var golden = 128;
 var diamond = 2048;
-var netherite = 2560;
+var netherite = 4096;
 
 <item:minecraft:wooden_sword>.maxDamage = wood;
 <item:minecraft:wooden_shovel>.maxDamage = wood;
