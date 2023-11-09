@@ -793,7 +793,7 @@
 	"Fairy Rings" = true
 	Corundum = true
 	"Chorus Vegetation" = false
-	"Blossom Trees" = false
+	"Blossom Trees" = true
 	"Big Stone Clusters" = true
 	"Azalea Wood" = true
 	"Ancient Wood" = true
@@ -1066,7 +1066,7 @@
 		"Drop Leaf Particles" = true
 
 		[world.blossom_trees.blue]
-			Rarity = 200
+			Rarity = 400
 
 			[world.blossom_trees.blue.dimensions]
 				"Is Blacklist" = false
@@ -1083,7 +1083,7 @@
 					"Is Blacklist" = true
 
 		[world.blossom_trees.lavender]
-			Rarity = 100
+			Rarity = 200
 
 			[world.blossom_trees.lavender.dimensions]
 				"Is Blacklist" = false
@@ -1100,7 +1100,7 @@
 					"Is Blacklist" = true
 
 		[world.blossom_trees.orange]
-			Rarity = 100
+			Rarity = 200
 
 			[world.blossom_trees.orange.dimensions]
 				"Is Blacklist" = false
@@ -1117,7 +1117,7 @@
 					"Is Blacklist" = true
 
 		[world.blossom_trees.pink]
-			Rarity = 100
+			Rarity = 200
 
 			[world.blossom_trees.pink.dimensions]
 				"Is Blacklist" = false
@@ -1134,7 +1134,7 @@
 					"Is Blacklist" = true
 
 		[world.blossom_trees.yellow]
-			Rarity = 200
+			Rarity = 800
 
 			[world.blossom_trees.yellow.dimensions]
 				"Is Blacklist" = false
@@ -1151,7 +1151,7 @@
 					"Is Blacklist" = true
 
 		[world.blossom_trees.red]
-			Rarity = 30
+			Rarity = 200
 
 			[world.blossom_trees.red.dimensions]
 				"Is Blacklist" = false

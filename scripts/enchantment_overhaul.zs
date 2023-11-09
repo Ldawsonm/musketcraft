@@ -1,7 +1,6 @@
 var book = <item:minecraft:book>;
 var lapis = <item:minecraft:lapis_lazuli>;
 
-# EFFICIENCY
 val enchant_upgrades = {
     "minecraft:efficiency" : <item:minecraft:redstone_block>,
     "minecraft:sharpness" : <item:minecraft:blaze_rod>,
@@ -25,3 +24,6 @@ for enchant, material in enchant_upgrades {
          [material, lapis, material]]);
     counter += 1;
 }
+
+# MAKE ENCHANT BOOKS STACKABLE TO 64
+<item:minecraft:enchanted_book>.maxStackSize = 64;
