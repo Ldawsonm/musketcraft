@@ -82,3 +82,9 @@ craftingTable.addShapeless("fertilizer", <item:minecraft:bone_meal>, [<item:mine
 craftingTable.remove(<item:windswept:wild_berry_juice>);
 craftingTable.addShapeless("wild_berry_wine", <item:windswept:wild_berry_juice>, [<item:minecraft:glass_bottle>, <item:windswept:wild_berries>, <item:windswept:wild_berries>, <item:windswept:wild_berries>, <item:minecraft:sugar>]);
 
+
+# CRAFTABLE SADDLES
+craftingTable.addShaped("saddle", <item:minecraft:saddle>, [
+    [<item:minecraft:leather>, <item:minecraft:leather>, <item:minecraft:leather>],
+    [<item:minecraft:leather>, <item:minecraft:string>, <item:minecraft:leather>],
+    [<item:minecraft:iron_ingot>, air, <item:minecraft:iron_ingot>]]);

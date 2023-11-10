@@ -187,7 +187,7 @@
 	lapis_bricks = true
 	deepslate_lamp = false
 	end_stone_lamp = false
-	blackstone_lamp = false
+	blackstone_lamp = true
 	stone_lamp = false
 	stone_tile = true
 	blackstone_tile = true

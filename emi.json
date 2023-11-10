@@ -1,6 +1,18 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:supplementaries:ash",
+    "item:supplementaries:blackstone_lamp",
+    "item:quark:magnet",
+    "item:minecraft:green_dye",
+    "item:minecraft:blue_dye",
+    "item:minecraft:azure_bluet",
+    "item:storagedrawers:oak_full_drawers_1",
+    "item:quark:crate",
+    "item:minecraft:arrow",
+    "item:minecraft:lapis_lazuli",
+    "item:minecraft:redstone_block",
+    "item:minecraft:saddle",
     {
       "type": "item",
       "id": "minecraft:raw_copper",
@@ -30,8 +42,6 @@
     "item:mctb:spruce_crafting_table",
     "item:supplementaries:spring_launcher",
     "item:quark:abacus",
-    "item:storagedrawers:oak_full_drawers_1",
-    "item:quark:crate",
     "item:minecraft:iron_ingot",
     {
       "type": "item",
@@ -48,7 +58,6 @@
     "#item:minecraft:planks",
     "item:minecraft:compass",
     "item:supplementaries:slice_map",
-    "item:minecraft:lapis_lazuli",
     "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"minecraft:blast_protection\",lvl:1}]}",
     "item:minecraft:white_wool",
     "item:minecraft:string",
@@ -81,7 +90,6 @@
       "amount": 9
     },
     "item:minecraft:blue_orchid",
-    "item:minecraft:green_dye",
     "item:quark:moss_paste",
     "item:quark:midori_block",
     "item:quark:midori_pillar",
@@ -230,7 +238,6 @@
     "item:smallships:oak_galley",
     "item:smallships:oak_brigg",
     "item:smallships:oak_cog",
-    "item:minecraft:arrow",
     {
       "type": "item",
       "id": "minecraft:fire_charge",

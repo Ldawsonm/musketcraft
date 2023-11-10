@@ -20,13 +20,13 @@
 	rare_enchantment_multiplier = 4
 	#The additional cost in levels for combining an item with another item of the same kind when the first item is not fully repaired.
 	#Range: > -2147483648
-	repair_with_other_item_cost = 2
+	repair_with_other_item_cost = 0
 	#Multiplier for each level of a common enchantment being applied.
 	#Range: > -2147483648
 	common_enchantment_multiplier = 1
 	#Multiplier for each level of a very rare enchantment being applied.
 	#Range: > 1
-	very_rare_enchantment_multiplier = 8
+	very_rare_enchantment_multiplier = 6
 	#Multiplier for each level of a uncommon enchantment being applied.
 	#Range: > 1
 	uncommon_enchantment_multiplier = 2
@@ -55,10 +55,10 @@
 	#VANILLA: Penalty doubles every time an item is worked.
 	#DISABLED: Penalty stays at 0 and does not increase.
 	#Allowed Values: DISABLED, VANILLA, FIXED
-	prior_work_penalty = "FIXED"
+	prior_work_penalty = "DISABLED"
 	#Prevents the prior work penalty from increasing when the item has only been renamed or repaired.
 	penalty_free_renames_and_repairs = true
 	#Constant to use when "prior_work_penalty" is set to "FIXED". Every subsequent operation will increase by this value in levels.
 	#Range: > 1
-	prior_work_penalty_constant = 2
+	prior_work_penalty_constant = 1
 
