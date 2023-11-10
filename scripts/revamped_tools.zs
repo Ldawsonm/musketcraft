@@ -59,7 +59,7 @@ craftingTable.addShaped("gold_boots_depth", <item:minecraft:golden_boots>.withTa
 # TURTLE SHELLS GIVE YOU 70 TOTAL SECONDS OF BREATHING
 craftingTable.remove(<item:minecraft:turtle_helmet>);
 
-craftingTable.addShaped("turtle_shell_resp", <item:minecraft:golden_helmet>.withTag({RepairCost: 1, Enchantments: [{lvl: 1, id: "minecraft:aqua_affinity"}]}), 
+craftingTable.addShaped("turtle_shell_resp", <item:minecraft:turtle_helmet>.withTag({RepairCost: 1, Enchantments: [{lvl: 1, id: "minecraft:aqua_affinity"}]}), 
     [[scute, scute, scute],
      [scute, air, scute]]);
 

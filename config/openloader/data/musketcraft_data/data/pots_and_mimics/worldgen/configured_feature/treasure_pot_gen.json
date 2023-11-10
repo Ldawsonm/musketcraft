@@ -1,7 +1,7 @@
 {
   "type": "pots_and_mimics:treasure_pot_gen",
   "config": {
-    "tries": 3,
+    "tries": 4,
     "xz_spread": 16,
     "y_spread": 6,
     "feature": {

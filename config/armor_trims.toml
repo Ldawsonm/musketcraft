@@ -13,11 +13,11 @@
 	# Basically half the premise of the mod, turn this off if you don't want people trimming armor themselves (E.G. if you have another system on place).
 	"New Smithing Table GUI" = true
 	# Don't consume smithing templates when trimming armor.
-	"Don't Consume Smithing Templates" = false
+	"Don't Consume Smithing Templates" = true
 	# Disable vanilla netherite upgrading in favor of the new one. NOT recommended to enable this alongside disableNetheriteUpgrade.
-	"Disable Vanilla Netherite Upgrading" = true
+	"Disable Vanilla Netherite Upgrading" = false
 	# Disable netherite upgrading via smithing template. Great if you feel like it takes away from the old vanilla experience. NOT recommended to enable this alongside disableVanillaNetheriteUpgrade.
-	"Disable Netherite Upgrade Smithing Template" = false
+	"Disable Netherite Upgrade Smithing Template" = true
 
 	["Base Features".Untrimming]
 		# Decides whether or not the player is allowed to un-trim armor.
