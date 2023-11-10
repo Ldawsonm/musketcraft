@@ -34,3 +34,4 @@ craftingTable.addShaped("vein_mining_book", <item:minecraft:enchanted_book>.with
 
 # MAKE ENCHANT BOOKS STACKABLE TO 64
 // <item:minecraft:enchanted_book>.maxStackSize = 64;
+

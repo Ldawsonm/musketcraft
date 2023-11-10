@@ -19,17 +19,17 @@
 	/**
 	 * Whether normal search queries should include the tooltip.
 	 */
-	search-tooltip-by-default: false;
+	search-tooltip-by-default: true;
 
 	/**
 	 * Whether normal search queries should include the mod name.
 	 */
-	search-mod-name-by-default: false;
+	search-mod-name-by-default: true;
 
 	/**
 	 * Whether normal search queries should include the stack's tags.
 	 */
-	search-tags-by-default: false;
+	search-tags-by-default: true;
 }
 
 #ui {

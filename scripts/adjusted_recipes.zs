@@ -88,3 +88,10 @@ craftingTable.addShaped("saddle", <item:minecraft:saddle>, [
     [<item:minecraft:leather>, <item:minecraft:leather>, <item:minecraft:leather>],
     [<item:minecraft:leather>, <item:minecraft:string>, <item:minecraft:leather>],
     [<item:minecraft:iron_ingot>, air, <item:minecraft:iron_ingot>]]);
+
+#Blackstone Lamp Redo
+craftingTable.remove(<item:supplementaries:blackstone_lamp>);
+craftingTable.addShaped("blackstone_lamp", <item:supplementaries:blackstone_lamp>, [
+    [air, <item:minecraft:blackstone>, air],
+    [<item:minecraft:blackstone>, <item:minecraft:glowstone>, <item:minecraft:blackstone>],
+    [air, <item:minecraft:blackstone>, air]]);

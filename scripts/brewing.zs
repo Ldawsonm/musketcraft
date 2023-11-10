@@ -32,3 +32,8 @@ brewing.addRecipe(
 	regen_reagent,
 	<item:minecraft:potion>.withTag({Potion: "minecraft:awkward"})
 );
+
+# Potions are Stackable to 4
+<item:minecraft:potion>.maxStackSize = 4;
+<item:minecraft:splash_potion>.maxStackSize = 4;
+<item:minecraft:lingering_potion>.maxStackSize = 4;

@@ -1,8 +1,56 @@
 {
   "favorites": [],
   "lookup_history": [
-    "item:supplementaries:ash",
+    "item:minecraft:furnace",
+    "item:quark:deepslate_furnace",
+    "item:quark:stick_block",
+    "item:minecraft:amethyst_block",
+    "item:supplementaries:hanging_sign_oak",
+    "item:supplementaries:hanging_sign_warped",
+    "item:supplementaries:sign_post_oak",
+    "item:woodworks:oak_boards",
+    "item:quark:red_blossom_hedge",
+    "item:quark:red_corundum",
+    "item:quark:clear_shard",
+    "item:supplementaries:flag_red",
+    "item:supplementaries:flag_purple",
+    "item:supplementaries:flag_orange",
+    "item:supplementaries:flag_white",
+    "item:pots_and_mimics:decorative_pot",
+    "item:vct:stripped_bamboo_crafting_table",
+    {
+      "type": "item",
+      "id": "minecraft:raw_copper",
+      "amount": 2
+    },
+    "item:minecraft:deepslate_copper_ore",
+    "item:excavated_variants:smooth_basalt_lapis_ore",
+    "item:minecraft:glowstone",
     "item:supplementaries:blackstone_lamp",
+    "item:vct:fairy_ring_mushroom_crafting_table",
+    "item:minecraft:tropical_fish",
+    "item:minecraft:prismarine_shard",
+    "item:minecraft:prismarine_crystals",
+    "item:quark:white_rune",
+    "item:minecraft:iron_ingot",
+    {
+      "type": "item",
+      "id": "quark:iron_plate",
+      "amount": 24
+    },
+    {
+      "type": "item",
+      "id": "minecraft:raw_iron",
+      "amount": 5
+    },
+    "#item:supplementaries:hourglass_dusts",
+    "item:minecraft:gunpowder",
+    "item:minecraft:wither_skeleton_skull",
+    "item:quark:oak_chest",
+    "item:quark:oak_trapped_chest",
+    "item:minecraft:chest",
+    "item:quark:music_disc_endermosh",
+    "item:supplementaries:ash",
     "item:quark:magnet",
     "item:minecraft:green_dye",
     "item:minecraft:blue_dye",
@@ -13,11 +61,6 @@
     "item:minecraft:lapis_lazuli",
     "item:minecraft:redstone_block",
     "item:minecraft:saddle",
-    {
-      "type": "item",
-      "id": "minecraft:raw_copper",
-      "amount": 6
-    },
     "item:minecraft:dragon_breath",
     {
       "type": "item",
@@ -42,7 +85,6 @@
     "item:mctb:spruce_crafting_table",
     "item:supplementaries:spring_launcher",
     "item:quark:abacus",
-    "item:minecraft:iron_ingot",
     {
       "type": "item",
       "id": "comforts:rope_and_nail",
@@ -82,7 +124,6 @@
     "item:quark:indigo_corundum_cluster",
     "item:minecraft:wheat",
     "item:minecraft:diamond",
-    "item:pots_and_mimics:decorative_pot",
     "item:minecraft:cornflower",
     {
       "type": "item",
@@ -137,10 +178,8 @@
     "item:minecraft:golden_axe{Damage:0}",
     "item:minecraft:andesite",
     "#item:forge:stone",
-    "item:quark:white_rune",
     "item:quark:orange_rune",
     "item:quark:blank_rune",
-    "item:quark:red_corundum",
     "item:quark:magenta_rune",
     "item:minecraft:name_tag",
     {
@@ -153,7 +192,6 @@
     "item:minecraft:amethyst_shard",
     "item:quark:framed_glass",
     "item:quark:yellow_framed_glass",
-    "item:minecraft:amethyst_block",
     "#item:forge:gems",
     "item:smallships:cannon",
     "item:minecraft:mangrove_propagule",
@@ -188,7 +226,6 @@
     "item:quark:backpack{Inventory:[{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}]}",
     "item:minecraft:raw_iron_block",
     "item:quark:raw_iron_bricks",
-    "item:quark:deepslate_furnace",
     "item:minecraft:blast_furnace",
     "item:minecraft:redstone",
     "item:supplementaries:turn_table",
@@ -219,7 +256,6 @@
     "item:minecraft:soul_soil",
     "item:minecraft:magma_block",
     "item:minecraft:bone",
-    "item:minecraft:wither_skeleton_skull",
     "item:minecraft:skeleton_skull",
     "item:quark:crab_bucket",
     "item:minecraft:blackstone",
@@ -231,7 +267,6 @@
     "item:minecraft:leather_horse_armor",
     "item:quark:diamond_heart",
     "item:quark:gunpowder_sack",
-    "item:minecraft:gunpowder",
     "item:minecraft:feather",
     "item:minecraft:cooked_chicken",
     "item:minecraft:cake",
@@ -244,7 +279,6 @@
       "amount": 3
     },
     "item:minecraft:firework_rocket",
-    "item:quark:iron_plate",
     "item:quark:iron_pillar",
     "item:minecraft:sugar_cane",
     "item:quark:glow_shroom",
@@ -278,7 +312,6 @@
       "amount": 2
     },
     "item:minecraft:chain",
-    "item:minecraft:chest",
     "item:supplementaries:altimeter",
     {
       "type": "item",
@@ -353,9 +386,10 @@
     "item:quark:orange_crystal_lamp"
   ],
   "craft_history": [
+    "quark:building/crafting/chests/chest_revert",
+    "quark:building/crafting/chests/oak_chest",
     "berry_good:glow_berry_pips",
     "minecraft:stone_bricks",
-    "quark:building/crafting/chests/oak_chest",
     "minecraft:firework_rocket",
     "minecraft:black_bed",
     "minecraft:oak_boat",
