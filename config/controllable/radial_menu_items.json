@@ -1,0 +1,30 @@
+[
+  {
+    "key": "key.callhorse.desc.custom",
+    "color": "YELLOW"
+  },
+  {
+    "key": "key.sethorse.desc.custom",
+    "color": "YELLOW"
+  },
+  {
+    "key": "key.showstats.desc.custom",
+    "color": "YELLOW"
+  },
+  {
+    "key": "key.map_atlases.open_minimap.custom",
+    "color": "DARK_GREEN"
+  },
+  {
+    "key": "key.smallships.ship_sail.custom",
+    "color": "AQUA"
+  },
+  {
+    "key": "key.personality.sit.custom",
+    "color": "WHITE"
+  },
+  {
+    "key": "key.personality.crawl.custom",
+    "color": "WHITE"
+  }
+]

@@ -19,7 +19,7 @@ craftingTable.addShaped("gold_pick_revamped", <item:minecraft:golden_pickaxe>.wi
      [air, stick, air],
      [air, stick, air]]);
 
-craftingTable.addShaped("gold_axe_revamped", <item:minecraft:golden_axe>.withTag({RepairCost: 1, Enchantments: [{lvl: 1, id: "minecraft:silk_touch"}]}), 
+craftingTable.addShapedMirrored("gold_axe_revamped", <constant:minecraft:mirroraxis:horizontal>, <item:minecraft:golden_axe>.withTag({RepairCost: 1, Enchantments: [{lvl: 1, id: "minecraft:silk_touch"}]}), 
     [[gold, gold, air],
      [gold, stick, air],
      [air, stick, air]]);
@@ -29,7 +29,7 @@ craftingTable.addShaped("gold_shovel_revamped", <item:minecraft:golden_pickaxe>.
      [air, stick, air],
      [air, stick, air]]);
 
-craftingTable.addShaped("gold_hoe_revamped", <item:minecraft:golden_hoe>.withTag({RepairCost: 1, Enchantments: [{lvl: 1, id: "minecraft:silk_touch"}]}), 
+craftingTable.addShapedMirrored("gold_hoe_revamped", <constant:minecraft:mirroraxis:horizontal>, <item:minecraft:golden_hoe>.withTag({RepairCost: 1, Enchantments: [{lvl: 1, id: "minecraft:silk_touch"}]}), 
     [[gold, gold, air],
      [air, stick, air],
      [air, stick, air]]);

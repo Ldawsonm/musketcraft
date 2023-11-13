@@ -438,7 +438,7 @@ customization {
   width = 90
   action = addbutton
   actionid = 26840d08-ca8a-42c7-a3b1-426f996af5a21686592101865
-  y = 28
+  y = -10
   backgroundnormal = fancymenu_setups/_images/btn_tutorial.png
   height = 20
 }
@@ -454,10 +454,10 @@ customization {
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if_not][req_id:65c4bdd3-be24-4934-a73b-84ff327ce7aa1697497177809] = seen_tutorial:true
   vanilla-like = false
   orientation_element = 26840d08-ca8a-42c7-a3b1-426f996af5a21686592101865
-  x = 61
+  x = 67
   actionid = 320fb505-3b75-46c0-bfe3-b4b1f4ce0ee91697496945696
   action = addsplash
-  y = 4
+  y = 2
   text = Open me!
 }
 
@@ -532,5 +532,14 @@ customization {
   y = 8
   tick_mode = on_menu_load
   height = 14
+}
+
+customization {
+  identifier = %id=628382%
+  orientation = element
+  orientation_element = 26840d08-ca8a-42c7-a3b1-426f996af5a21686592101865
+  x = -66
+  action = movebutton
+  y = 27
 }
 

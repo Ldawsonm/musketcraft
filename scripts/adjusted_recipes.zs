@@ -95,3 +95,12 @@ craftingTable.addShaped("blackstone_lamp", <item:supplementaries:blackstone_lamp
     [air, <item:minecraft:blackstone>, air],
     [<item:minecraft:blackstone>, <item:minecraft:glowstone>, <item:minecraft:blackstone>],
     [air, <item:minecraft:blackstone>, air]]);
+
+# Wild Berry Wine is stackable to 4
+<item:windswept:wild_berry_juice>.maxStackSize = 4;
+
+# Make Honey Stackable to 4
+<item:minecraft:honey_bottle>.maxStackSize = 4;
+
+# Gravel 2 Flint
+craftingTable.addShapeless("gravel2flint", <item:minecraft:flint>, [<item:minecraft:gravel>, <item:minecraft:gravel>, <item:minecraft:gravel>]);

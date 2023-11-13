@@ -53,7 +53,7 @@ showDebugMessagesInChat = false
 
 ["Sleep in bed"]
 	#If true, you will get experience after sleeping in bed.
-	1_EnableExpWhenSleep = true
+	1_EnableExpWhenSleep = false
 	#Exp you get when you wake up after sleeping on a bed.
 	ExpForSleep = 5
 
