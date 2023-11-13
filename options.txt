@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:5
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","quark:emote_resources","resources/musketeer_resources","resources/musketeer_qvro","resources/musketeer_vmct","V Slab Compat Generated Pack","resources/musketeer_dsof","resources/musketeer_vanillatweaks","file/More Biome Sizes - Resource Pack","defaultresources","dynamic_asset_generator:assets","file/eatinganimations+ 1.10.zip","file/xali\u0027s+Enhanced+Jungle+Wood+v1.2.zip","file/Soft-Weather-1.0-1.19.zip","file/Desaturated+Acacia+v1.0_1.19.x.zip","file/Muskets-and-sabres-modified","file/Flax-to-Hemp","eatinganimations_compat","file/VanillaTweaks_MusketCraft.zip","file/Aimz - Better Crosshair.zip"]
-incompatibleResourcePacks:["quark:emote_resources","resources/musketeer_vanillatweaks","file/More Biome Sizes - Resource Pack","file/eatinganimations+ 1.10.zip","file/xali\u0027s+Enhanced+Jungle+Wood+v1.2.zip","file/Desaturated+Acacia+v1.0_1.19.x.zip","file/Muskets-and-sabres-modified","file/Flax-to-Hemp","file/VanillaTweaks_MusketCraft.zip","file/Aimz - Better Crosshair.zip"]
+resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","quark:emote_resources","resources/musketeer_resources","resources/musketeer_qvro","resources/musketeer_vmct","V Slab Compat Generated Pack","resources/musketeer_dsof","resources/musketeer_vanillatweaks","file/More Biome Sizes - Resource Pack","defaultresources","dynamic_asset_generator:assets","file/eatinganimations+ 1.10.zip","file/xali\u0027s+Enhanced+Jungle+Wood+v1.2.zip","file/Soft-Weather-1.0-1.19.zip","file/Desaturated+Acacia+v1.0_1.19.x.zip","file/Muskets-and-sabres-modified","file/Flax-to-Hemp","eatinganimations_compat","file/VanillaTweaks_MusketCraft.zip","file/Aimz - Better Crosshair.zip","file/Panoramas"]
+incompatibleResourcePacks:["quark:emote_resources","resources/musketeer_vanillatweaks","file/More Biome Sizes - Resource Pack","file/eatinganimations+ 1.10.zip","file/xali\u0027s+Enhanced+Jungle+Wood+v1.2.zip","file/Desaturated+Acacia+v1.0_1.19.x.zip","file/Muskets-and-sabres-modified","file/Flax-to-Hemp","file/VanillaTweaks_MusketCraft.zip","file/Aimz - Better Crosshair.zip","file/Panoramas"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -128,35 +128,35 @@ key_key.trashslot.toggle:key.keyboard.unknown
 key_key.trashslot.toggleLock:key.keyboard.unknown
 key_key.trashslot.delete:key.keyboard.delete
 key_key.trashslot.deleteAll:key.keyboard.delete:SHIFT
-key_key.jei.toggleEditMode:key.keyboard.unknown
 key_key.jei.nextCategory:key.keyboard.unknown
-key_key.jei.toggleOverlay:key.keyboard.unknown
-key_key.jei.previousRecipePage:key.keyboard.unknown
-key_key.jei.previousPage:key.keyboard.unknown
-key_key.jei.previousSearch:key.keyboard.unknown
-key_key.jei.clearSearchBar:key.keyboard.unknown
+key_key.jei.cheatOneItem2:key.keyboard.unknown
+key_key.jei.focusSearch:key.keyboard.unknown
+key_key.jei.toggleEditMode:key.keyboard.unknown
 key_key.jei.toggleCheatMode:key.keyboard.unknown
+key_key.jei.clearSearchBar:key.keyboard.unknown
+key_key.jei.toggleOverlay:key.keyboard.unknown
+key_key.jei.nextPage:key.keyboard.unknown
 key_key.jei.nextRecipePage:key.keyboard.unknown
 key_key.jei.showUses2:key.keyboard.unknown
+key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
+key_key.jei.toggleCheatModeConfigButton:key.keyboard.unknown
+key_key.jei.toggleHideIngredient:key.keyboard.unknown
+key_key.jei.previousRecipePage:key.keyboard.unknown
+key_key.jei.copy.recipe.id:key.keyboard.unknown
+key_key.jei.cheatItemStack2:key.keyboard.unknown
+key_key.jei.recipeBack:key.keyboard.unknown
+key_key.jei.showRecipe:key.keyboard.unknown
+key_key.jei.previousCategory:key.keyboard.unknown
 key_key.jei.closeRecipeGui:key.keyboard.unknown
+key_key.jei.previousPage:key.keyboard.unknown
+key_key.jei.previousSearch:key.keyboard.unknown
+key_key.jei.showUses:key.keyboard.unknown
 key_key.jei.cheatOneItem:key.keyboard.unknown
 key_key.jei.toggleWildcardHideIngredient:key.keyboard.unknown
-key_key.jei.focusSearch:key.keyboard.unknown
-key_key.jei.cheatItemStack2:key.keyboard.unknown
-key_key.jei.nextPage:key.keyboard.unknown
-key_key.jei.showRecipe:key.keyboard.unknown
-key_key.jei.showRecipe2:key.keyboard.unknown
-key_key.jei.toggleCheatModeConfigButton:key.keyboard.unknown
-key_key.jei.bookmark:key.keyboard.unknown
 key_key.jei.nextSearch:key.keyboard.unknown
-key_key.jei.toggleHideIngredient:key.keyboard.unknown
-key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
-key_key.jei.cheatOneItem2:key.keyboard.unknown
-key_key.jei.copy.recipe.id:key.keyboard.unknown
-key_key.jei.recipeBack:key.keyboard.unknown
-key_key.jei.showUses:key.keyboard.unknown
+key_key.jei.showRecipe2:key.keyboard.unknown
+key_key.jei.bookmark:key.keyboard.unknown
 key_key.jei.cheatItemStack:key.keyboard.unknown
-key_key.jei.previousCategory:key.keyboard.unknown
 key_key.sethorse.desc:key.keyboard.p
 key_key.callhorse.desc:key.keyboard.h
 key_key.showstats.desc:key.keyboard.n
