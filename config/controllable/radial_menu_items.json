@@ -26,5 +26,9 @@
   {
     "key": "key.personality.crawl.custom",
     "color": "WHITE"
+  },
+  {
+    "key": "quark.keybind.variant_selector.custom",
+    "color": "YELLOW"
   }
 ]

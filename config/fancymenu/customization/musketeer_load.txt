@@ -9,7 +9,7 @@ customization-meta {
 }
 
 customization {
-  path = fancymenu_setups/_images/loading.png
+  path = fancymenu_setups/_images/loading_background.png
   action = texturizebackground
 }
 
@@ -55,37 +55,6 @@ customization {
 }
 
 customization {
-  path = fancymenu_setups/_images/loading_logo.png
-  orientation = mid-centered
-  x = -154
-  width = 300
-  action = addtexture
-  actionid = 478c087d-2965-473e-b05b-fcc5cb82ba351684626498509
-  y = -62
-  height = 74
-}
-
-customization {
-  orientation = bottom-centered
-  enable_scrolling = true
-  shadow = false
-  scale = 1.0
-  source = Musketeer is a fan work.%n%Violet Moon is not affiliated with Mojang Studios.
-  text_border = 0
-  case_mode = normal
-  source_mode = direct
-  line_spacing = 1
-  x = -160
-  width = 320
-  action = custom_layout_element:fancymenu_customization_item_text
-  actionid = 2f8356a1-4405-4f5e-8c08-84fe3f8730951684626639163
-  y = -30
-  alignment = centered
-  base_color = 999999
-  height = 30
-}
-
-customization {
   orientation = mid-centered
   enable_scrolling = true
   shadow = true
@@ -102,5 +71,16 @@ customization {
   y = 12
   alignment = left
   height = 73
+}
+
+customization {
+  path = fancymenu_setups/_images/loading_logo.png
+  orientation = mid-centered
+  x = -175
+  width = 346
+  action = addtexture
+  actionid = a12b655f-df3e-4da7-aa6a-e45b615b78991699909048272
+  y = -142
+  height = 183
 }
 

@@ -15,3 +15,6 @@ dev.emi.emi.screen.ConfigScreen {
 net.minecraft.client.gui.screens.inventory.FurnaceScreen {
 }
 
+net.minecraft.client.gui.screens.PauseScreen {
+}
+

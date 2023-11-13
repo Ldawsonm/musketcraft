@@ -39,15 +39,6 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = fancymenu_setups\_images\btn90_hover.png
-  backgroundnormal = fancymenu_setups\_images\btn90.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:e2c07e88-9389-4750-94ae-205b2a5be0901697503617532] = seen_tutorial:true
   action = vanilla_button_visibility_requirements
 }
@@ -55,25 +46,16 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   orientation = element
-  orientation_element = vanillabtn:376382
-  x = 25
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_language_button
+  x = 24
   action = movebutton
-  y = 1
+  y = 0
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   action = setbuttonlabel
   value = 
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = fancymenu_setups\_images\btnaccess_hover.png
-  backgroundnormal = fancymenu_setups\_images\btnaccess.png
 }
 
 customization {
@@ -85,10 +67,10 @@ customization {
 customization {
   identifier = %id=628382%
   orientation = element
-  orientation_element = 26840d08-ca8a-42c7-a3b1-426f996af5a21686592101865
-  x = -66
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_language_button
+  x = -24
   action = movebutton
-  y = 27
+  y = 0
 }
 
 customization {
@@ -114,12 +96,11 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = fancymenu_setups\_images\btn90_hover.png
-  backgroundnormal = fancymenu_setups\_images\btn90.png
+  identifier = %id=4936%
+  orientation = bottom-left
+  x = 0
+  action = movebutton
+  y = -20
 }
 
 customization {
@@ -131,24 +112,15 @@ customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = element
   orientation_element = 26840d08-ca8a-42c7-a3b1-426f996af5a21686592101865
-  x = -39
+  x = 23
   action = movebutton
-  y = 28
+  y = 31
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = setbuttonlabel
   value = 
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = fancymenu_setups\_images\btnlang_hover.png
-  backgroundnormal = fancymenu_setups\_images\btnlang.png
 }
 
 customization {
@@ -181,15 +153,6 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = fancymenu_setups\_images\btn90_hover.png
-  backgroundnormal = fancymenu_setups\_images\btn90.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   action = vanilla_button_visibility_requirements
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:3ce3bc7b-c6db-46db-8492-499a17360e0d1697503591875] = seen_tutorial:true
 }
@@ -214,15 +177,6 @@ customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   action = setbuttonlabel
   value = Mod List
-}
-
-customization {
-  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = fancymenu_setups\_images\btn90_hover.png
-  backgroundnormal = fancymenu_setups\_images\btn90.png
 }
 
 customization {
@@ -320,18 +274,18 @@ customization {
   orientation = element
   restartbackgroundanimations = true
   buttonaction = quitgame;%btnaction_splitter_fm%
-  backgroundhovered = fancymenu_setups\_images\btnclose_hover.png
+  backgroundhovered = fancymenu_setups/_images/exit_hover.png
   description = Close Game
   label = 
   loopbackgroundanimations = true
   hoverlabel = 
-  orientation_element = 26840d08-ca8a-42c7-a3b1-426f996af5a21686592101865
-  x = 101
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_language_button
+  x = 48
   width = 20
   action = addbutton
   actionid = 268f64dd-5b5b-436e-93b1-995db90192cd1650940749718
-  y = 33
-  backgroundnormal = fancymenu_setups\_images\btnclose.png
+  y = 0
+  backgroundnormal = fancymenu_setups/_images/exit.png
   height = 20
 }
 
@@ -383,18 +337,16 @@ customization {
 
 customization {
   orientation = mid-centered
-  restartbackgroundanimations = true
-  buttonaction = opengui;tutorial%btnaction_splitter_fm%
-  backgroundhovered = fancymenu_setups/_images/btn_tutorial_hover.png
-  label = Tutorial
   loopbackgroundanimations = true
   hoverlabel = Tutorial
+  restartbackgroundanimations = true
+  buttonaction = opengui;tutorial%btnaction_splitter_fm%
   x = -45
   width = 90
   action = addbutton
   actionid = 26840d08-ca8a-42c7-a3b1-426f996af5a21686592101865
   y = -10
-  backgroundnormal = fancymenu_setups/_images/btn_tutorial.png
+  label = Tutorial
   height = 20
 }
 
@@ -434,7 +386,7 @@ customization {
   x = 108
   actionid = 66c46510-c194-48f1-84ea-1badfd1f71c61697497249309
   action = addsplash
-  y = 60
+  y = 58
   delayappearance = true
   delayappearanceeverytime = false
 }
@@ -444,7 +396,6 @@ customization {
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:3fa3ef46-195a-44bb-83a6-6ed7403f5e231697503605486] = seen_tutorial:true
   restartbackgroundanimations = true
   buttonaction = join_last_world%btnaction_splitter_fm%
-  backgroundhovered = fancymenu_setups/_images/btn_tutorial_hover.png
   label = Last World
   loopbackgroundanimations = true
   orientation_element = 26840d08-ca8a-42c7-a3b1-426f996af5a21686592101865
@@ -453,7 +404,6 @@ customization {
   action = addbutton
   actionid = 8cdf25e5-26fe-4709-9a86-a94a395a15901697497539767
   y = -26
-  backgroundnormal = fancymenu_setups/_images/btn_tutorial.png
   height = 20
 }
 
