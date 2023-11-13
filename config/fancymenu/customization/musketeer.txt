@@ -304,11 +304,11 @@ customization {
   path = fancymenu_setups/_images/logo.png
   orientation = element
   orientation_element = 26840d08-ca8a-42c7-a3b1-426f996af5a21686592101865
-  x = -83
+  x = -85
   width = 256
   action = addtexture
   actionid = 4116190c-1c9e-4188-a941-95e35dbebb001684624149903
-  y = -100
+  y = -90
   height = 32
 }
 
