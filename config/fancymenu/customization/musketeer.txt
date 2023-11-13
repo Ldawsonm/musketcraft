@@ -83,6 +83,15 @@ customization {
 }
 
 customization {
+  identifier = %id=628382%
+  orientation = element
+  orientation_element = 26840d08-ca8a-42c7-a3b1-426f996af5a21686592101865
+  x = -66
+  action = movebutton
+  y = 27
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = element
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
@@ -296,60 +305,6 @@ customization {
 }
 
 customization {
-  orientation = element
-  restartbackgroundanimations = true
-  buttonaction = openlink;https://discord.gg/vm%btnaction_splitter_fm%
-  backgroundhovered = fancymenu_setups\_images\btndiscord_hover.png
-  description = Violet Moon Discord
-  label = 
-  loopbackgroundanimations = true
-  orientation_element = 08f0e234-e1ac-4e46-948a-d24a045cf4f31697500172176
-  x = 24
-  width = 20
-  action = addbutton
-  actionid = 729b8a7d-e4b9-4407-bea9-9e862d28f4fd1650334663251
-  y = 0
-  backgroundnormal = fancymenu_setups\_images\btndiscord.png
-  height = 20
-}
-
-customization {
-  orientation = element
-  restartbackgroundanimations = true
-  buttonaction = openlink;https://twitter.com/vazkiimods%btnaction_splitter_fm%
-  backgroundhovered = fancymenu_setups\_images\btntwt_hover.png
-  description = Violet Moon Twitter
-  label = 
-  loopbackgroundanimations = true
-  orientation_element = 729b8a7d-e4b9-4407-bea9-9e862d28f4fd1650334663251
-  x = 25
-  width = 20
-  action = addbutton
-  actionid = b229105b-fcc0-43b3-9c52-ae1e51c955961650334901634
-  y = -1
-  backgroundnormal = fancymenu_setups\_images\btntwt.png
-  height = 20
-}
-
-customization {
-  orientation = element
-  restartbackgroundanimations = true
-  buttonaction = openlink;https://patreon.com/vazkii%btnaction_splitter_fm%
-  backgroundhovered = fancymenu_setups\_images\btnpatreon_hover.png
-  description = Vazkii's Patreon
-  label = 
-  loopbackgroundanimations = true
-  orientation_element = vanillabtn:604382
-  x = 25
-  width = 20
-  action = addbutton
-  actionid = cef5e269-6b49-432b-b9e3-a7f5ef0adf681650334908456
-  y = 1
-  backgroundnormal = fancymenu_setups\_images\btnpatreon.png
-  height = 20
-}
-
-customization {
   orientation = bottom-centered
   shadow = false
   x = 0
@@ -370,12 +325,12 @@ customization {
   label = 
   loopbackgroundanimations = true
   hoverlabel = 
-  orientation_element = b229105b-fcc0-43b3-9c52-ae1e51c955961650334901634
-  x = 24
+  orientation_element = 26840d08-ca8a-42c7-a3b1-426f996af5a21686592101865
+  x = 101
   width = 20
   action = addbutton
   actionid = 268f64dd-5b5b-436e-93b1-995db90192cd1650940749718
-  y = -1
+  y = 33
   backgroundnormal = fancymenu_setups\_images\btnclose.png
   height = 20
 }
@@ -476,10 +431,10 @@ customization {
   vanilla-like = false
   fadeinspeed = 1.0
   orientation_element = 4116190c-1c9e-4188-a941-95e35dbebb001684624149903
-  x = 110
+  x = 108
   actionid = 66c46510-c194-48f1-84ea-1badfd1f71c61697497249309
   action = addsplash
-  y = 69
+  y = 60
   delayappearance = true
   delayappearanceeverytime = false
 }
@@ -503,24 +458,6 @@ customization {
 }
 
 customization {
-  orientation = element
-  restartbackgroundanimations = true
-  buttonaction = openlink;https://forum.violetmoon.org%btnaction_splitter_fm%
-  backgroundhovered = fancymenu_setups\_images\btnforum_hover.png
-  description = Violet Moon Forums
-  label = 
-  loopbackgroundanimations = true
-  orientation_element = cef5e269-6b49-432b-b9e3-a7f5ef0adf681650334908456
-  x = 24
-  width = 20
-  action = addbutton
-  actionid = 08f0e234-e1ac-4e46-948a-d24a045cf4f31697500172176
-  y = 0
-  backgroundnormal = fancymenu_setups\_images\btnforum.png
-  height = 20
-}
-
-customization {
   tickeraction_0_set_variable = easter_egg:{"placeholder":"randomtext","values":{"path":"fancymenu_setups/easter_egg.txt","interval":"1"}}
   orientation = top-left
   tick_delay = 0
@@ -532,14 +469,5 @@ customization {
   y = 8
   tick_mode = on_menu_load
   height = 14
-}
-
-customization {
-  identifier = %id=628382%
-  orientation = element
-  orientation_element = 26840d08-ca8a-42c7-a3b1-426f996af5a21686592101865
-  x = -66
-  action = movebutton
-  y = 27
 }
 

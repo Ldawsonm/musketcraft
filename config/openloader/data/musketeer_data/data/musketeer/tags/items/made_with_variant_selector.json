@@ -1040,6 +1040,10 @@
         "connectedglass:scratched_glass_brown_pane",
         "connectedglass:scratched_glass_green_pane",
         "connectedglass:scratched_glass_red_pane",
-        "connectedglass:scratched_glass_black_pane"
+        "connectedglass:scratched_glass_black_pane",
+        "betteramethyst:amethyst_bricks_slab",
+        "betteramethyst:amethyst_bricks_stairs",
+        "betteramethyst:amethyst_bricks_wall",
+        "v_slab_compat:betteramethyst/amethyst_bricks_vertical_slab"
     ]
 }
