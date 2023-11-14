@@ -313,29 +313,6 @@ customization {
 }
 
 customization {
-  orientation = element
-  basecolor = #f1f79d
-  shadow = true
-  delayappearanceseconds = 0.01
-  splashfilepath = fancymenu_setups/splashes.txt
-  rotation = -15.0
-  scale = 0.8
-  refresh = true
-  bouncing = true
-  fadein = true
-  vanilla-like = false
-  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:5c5ae9d8-f46c-4ce0-b566-ab4875d8a7761697497205333] = seen_tutorial:true
-  fadeinspeed = 1.0
-  orientation_element = 4116190c-1c9e-4188-a941-95e35dbebb001684624149903
-  x = 200
-  actionid = 75bf8952-921e-459f-82f2-aa4138b98d321685315096020
-  action = addsplash
-  y = 32
-  delayappearance = true
-  delayappearanceeverytime = false
-}
-
-customization {
   orientation = mid-centered
   loopbackgroundanimations = true
   hoverlabel = Tutorial
@@ -348,6 +325,29 @@ customization {
   y = -10
   label = Tutorial
   height = 20
+}
+
+customization {
+  orientation = element
+  basecolor = #f1f79d
+  shadow = true
+  delayappearanceseconds = 0.01
+  splashfilepath = fancymenu_setups/splashes.txt
+  rotation = -15.0
+  scale = 1.0
+  refresh = true
+  bouncing = true
+  fadein = true
+  vanilla-like = false
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:5c5ae9d8-f46c-4ce0-b566-ab4875d8a7761697497205333] = seen_tutorial:true
+  fadeinspeed = 1.0
+  orientation_element = 4116190c-1c9e-4188-a941-95e35dbebb001684624149903
+  x = 198
+  actionid = 75bf8952-921e-459f-82f2-aa4138b98d321685315096020
+  action = addsplash
+  y = 20
+  delayappearance = true
+  delayappearanceeverytime = false
 }
 
 customization {
