@@ -1280,7 +1280,8 @@
         "item:minecraft:goat_horn{instrument:\"minecraft:yearn_goat_horn\"}",
         "item:minecraft:goat_horn{instrument:\"minecraft:dream_goat_horn\"}",
         "#item:minecraft:music_discs",
-        "item:windswept:music_disc_bumblebee"
+        "item:windswept:music_disc_bumblebee",
+        "item:supplementaries:altimeter"
     ],
     "added": []
 }

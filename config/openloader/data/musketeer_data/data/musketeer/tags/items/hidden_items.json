@@ -546,6 +546,7 @@
         "pots_and_mimics:nether_treasure_pot",
         "pots_and_mimics:end_treasure_pot",
         "pots_and_mimics:decorative_nether_pot",
-        "pots_and_mimics:decorative_end_pot"
+        "pots_and_mimics:decorative_end_pot",
+        "supplementaries:altimeter"
     ]
 }
