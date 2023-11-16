@@ -104,3 +104,24 @@ craftingTable.addShaped("blackstone_lamp", <item:supplementaries:blackstone_lamp
 
 # Gravel 2 Flint
 craftingTable.addShapeless("gravel2flint", <item:minecraft:flint>, [<item:minecraft:gravel>, <item:minecraft:gravel>, <item:minecraft:gravel>]);
+
+# Sensible Blast Furnace
+val iron = <item:minecraft:iron_ingot>;
+val cobble = <item:minecraft:cobblestone>;
+val furnace = <item:minecraft:furnace>;
+
+craftingTable.remove(<item:minecraft:blast_furnace>);
+craftingTable.addShaped("sensible_blast_furnace", <item:minecraft:blast_furnace>, [
+    [iron, iron, iron],
+    [iron, furnace, iron],
+    [cobble, cobble, cobble]
+]);
+
+# Sensible Kiln
+val brick = <item:minecraft:brick>;
+craftingTable.remove(<item:clayworks:kiln>);
+craftingTable.addShaped("sensible_kiln", <item:clayworks:kiln>, [
+    [brick, brick, brick],
+    [brick, furnace, brick],
+    [cobble, cobble, cobble]
+]);
