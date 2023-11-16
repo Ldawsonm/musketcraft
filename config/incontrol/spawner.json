@@ -1,0 +1,8 @@
+[
+    {
+        "mob": "minecraft:slime",
+        "conditions": {
+            "dimension": "minecraft:overworld"
+        }
+    }
+]

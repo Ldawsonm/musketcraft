@@ -1,0 +1,8 @@
+[
+    {
+        "name": "thunder",
+        "conditions": {
+            "weather":"thunder"
+        }
+    }
+]

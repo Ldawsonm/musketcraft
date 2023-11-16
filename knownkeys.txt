@@ -119,3 +119,8 @@ quark.keybind.patreon_emote.exorcist
 quark.keybind.patreon_emote.zombie
 quark.keybind.lock_rotation
 supplementaries.keybind.quiver
+iris.keybind.toggleShaders
+key.smallships.ship_sail
+key.trashslot.toggle
+key.callhorse.desc
+key.showstats.desc

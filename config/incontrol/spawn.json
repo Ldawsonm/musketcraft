@@ -1,0 +1,12 @@
+[
+    {
+        "mob": "minecraft:slime",
+        "weather": "thunder",
+        "result":"allow"
+    },
+    {
+        "mob": "minecraft:slime",
+        "weather": "rain",
+        "result":"allow"
+    }
+]

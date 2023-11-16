@@ -1,6 +1,10 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:minecraft:slime_block",
+    "item:minecraft:slime_ball",
+    "item:minecraft:lapis_lazuli",
+    "item:quark:permafrost",
     "item:windswept:yellow_rose_bush",
     {
       "type": "item",
@@ -206,11 +210,6 @@
       "id": "minecraft:gold_ingot",
       "amount": 61
     },
-    {
-      "type": "item",
-      "id": "minecraft:lapis_lazuli",
-      "amount": 60
-    },
     "item:minecraft:scute",
     "item:minecraft:oak_chest_boat",
     "item:minecraft:conduit",
@@ -333,7 +332,6 @@
     "item:quark:midori_pillar",
     "item:moreminecarts:coupler",
     "item:minecraft:potion{Potion:\"habitat:blast_endurance\"}",
-    "item:quark:permafrost",
     "item:minecraft:brown_mushroom",
     "item:minecraft:rabbit_stew",
     "item:minecraft:carrot",
