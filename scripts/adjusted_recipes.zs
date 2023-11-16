@@ -125,3 +125,12 @@ craftingTable.addShaped("sensible_kiln", <item:clayworks:kiln>, [
     [brick, furnace, brick],
     [cobble, cobble, cobble]
 ]);
+
+# Smoker Motif
+val log = <tag:items:minecraft:logs>;
+craftingTable.remove(<item:minecraft:smoker>);
+craftingTable.addShaped("sensible_smoker", <item:minecraft:smoker>, [
+    [log, log, log],
+    [log, furnace, log],
+    [cobble, cobble, cobble]
+]);
