@@ -141,5 +141,5 @@ craftingTable.remove(<item:minecraft:crossbow>);
 craftingTable.addShaped("thematic_crossbow", <item:minecraft:crossbow>, [
     [air, iron, air],
     [iron, <item:minecraft:bow>, gunpowder],
-    [air, gunpowder, log]
+    [air, air, log]
 ]);
