@@ -2,7 +2,7 @@
   "conditions": [
     {
       "condition": "forge:loot_table_id",
-      "loot_table_id": "repurposed_structures:chests/cities/overworld"
+      "loot_table_id": "minecraft:chests/end_city_treasure"
     }
   ],
   "addition": "armor_trims:spire_armor_trim_smithing_template",

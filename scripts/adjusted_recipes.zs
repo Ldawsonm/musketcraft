@@ -134,3 +134,12 @@ craftingTable.addShaped("sensible_smoker", <item:minecraft:smoker>, [
     [log, furnace, log],
     [cobble, cobble, cobble]
 ]);
+
+# Crossbow recipe change
+val gunpowder = <item:minecraft:gunpowder>;
+craftingTable.remove(<item:minecraft:crossbow>);
+craftingTable.addShaped("thematic_crossbow", <item:minecraft:crossbow>, [
+    [air, iron, air],
+    [iron, <item:minecraft:bow>, gunpowder],
+    [air, gunpowder, log]
+]);

@@ -8,5 +8,15 @@
         "mob": "minecraft:slime",
         "weather": "rain",
         "result":"allow"
+    },
+    {
+        "mob": "minecraft:slime",
+        "slime": true,
+        "maxheight": 40,
+        "result": "allow"
+    },
+    {
+        "mob": "minecraft:slime",
+        "result": "deny"
     }
 ]

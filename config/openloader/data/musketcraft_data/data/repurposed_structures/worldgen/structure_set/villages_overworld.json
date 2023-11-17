@@ -2,48 +2,256 @@
   "structures": [
     {
       "structure": "repurposed_structures:village_badlands",
-      "weight": 5
+      "weight": 7
     },
     {
       "structure": "repurposed_structures:village_birch",
-      "weight": 5
+      "weight": 7
     },
     {
       "structure": "repurposed_structures:village_dark_forest",
-      "weight": 5
+      "weight": 7
     },
     {
       "structure": "repurposed_structures:village_giant_taiga",
-      "weight": 5
+      "weight": 7
     },
     {
       "structure": "repurposed_structures:village_jungle",
-      "weight": 5
+      "weight": 7
     },
     {
       "structure": "repurposed_structures:village_mountains",
-      "weight": 5
+      "weight": 7
     },
     {
       "structure": "repurposed_structures:village_oak",
-      "weight": 5
+      "weight": 7
     },
     {
       "structure": "repurposed_structures:village_swamp",
-      "weight": 5
+      "weight": 7
     },
     {
       "structure": "repurposed_structures:village_ocean",
       "weight": 2
+    },
+    {
+        "structure": "towns_and_towers:village_old_growth_taiga",
+        "weight": 4
+    },
+    {
+        "structure": "towns_and_towers:village_snowy_taiga",
+        "weight": 4
+    },
+    {
+        "structure": "towns_and_towers:village_badlands",
+        "weight": 4
+    },
+    {
+        "structure": "towns_and_towers:village_sunflower_plains",
+        "weight": 4
+    },
+    {
+        "structure": "towns_and_towers:village_wooded_badlands",
+        "weight": 4
+    },
+    {
+        "structure": "towns_and_towers:village_meadow",
+        "weight": 4
+    },
+    {
+        "structure": "towns_and_towers:village_swamp",
+        "weight": 4
+    },
+    {
+        "structure": "towns_and_towers:village_grove",
+        "weight": 4
+    },
+    {
+        "structure": "towns_and_towers:village_ocean",
+        "weight": 2
+    },
+    {
+        "structure": "towns_and_towers:village_forest",
+        "weight": 6
+    },
+    {
+        "structure": "towns_and_towers:village_snowy_slopes",
+        "weight": 4
+    },
+    {
+        "structure": "towns_and_towers:village_sparse_jungle",
+        "weight": 4
+    },
+    {
+        "structure": "towns_and_towers:village_jungle",
+        "weight": 4
+    },
+    {
+        "structure": "towns_and_towers:village_birch_forest",
+        "weight": 4
+    },
+    {
+      "structure": "repurposed_structures:outpost_badlands",
+      "weight": 6
+    },
+    {
+      "structure": "repurposed_structures:outpost_birch",
+      "weight": 6
+    },
+    {
+      "structure": "repurposed_structures:outpost_desert",
+      "weight": 6
+    },
+    {
+      "structure": "repurposed_structures:outpost_giant_tree_taiga",
+      "weight": 6
+    },
+    {
+      "structure": "repurposed_structures:outpost_icy",
+      "weight": 6
+    },
+    {
+      "structure": "repurposed_structures:outpost_jungle",
+      "weight": 6
+    },
+    {
+      "structure": "repurposed_structures:outpost_mangrove",
+      "weight": 6
+    },
+    {
+      "structure": "repurposed_structures:outpost_oak",
+      "weight": 6
+    },
+    {
+      "structure": "repurposed_structures:outpost_snowy",
+      "weight": 6
+    },
+    {
+      "structure": "repurposed_structures:outpost_taiga",
+      "weight": 6
+    },
+    {
+      "structure": "towns_and_towers:pillager_outpost_meadow",
+      "weight": 3
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_sunflower_plains",
+        "weight": 3
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_desert",
+        "weight": 3
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_snowy_taiga",
+        "weight": 3
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_savanna",
+        "weight": 3
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_taiga",
+        "weight": 3
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_birch_forest",
+        "weight": 3
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_ocean",
+        "weight": 2
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_old_growth_taiga",
+        "weight": 3
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_badlands",
+        "weight": 3
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_forest",
+        "weight": 3
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_snowy_plains",
+        "weight": 3
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_jungle",
+        "weight": 3
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_beach",
+        "weight": 3
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_flower_forest",
+        "weight": 2
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_grove",
+        "weight": 3
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_snowy_slopes",
+        "weight": 3
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_mushroom_fields",
+        "weight": 3
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_sparse_jungle",
+        "weight": 3
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_swamp",
+        "weight": 3
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_wooded_badlands",
+        "weight": 3
+    },
+    {
+        "structure": "towns_and_towers:pillager_outpost_snowy_beach",
+        "weight": 3
+    },
+    {
+      "structure": "minecraft:pillager_outpost",
+      "weight": 8
+    },
+    {
+      "structure": "minecraft:village_plains",
+      "weight": 8
+    },
+    {
+      "structure": "minecraft:village_desert",
+      "weight": 8
+    },
+    {
+      "structure": "minecraft:village_savanna",
+      "weight": 8
+    },
+    {
+      "structure": "minecraft:village_snowy",
+      "weight": 8
+    },
+    {
+      "structure": "minecraft:village_taiga",
+      "weight": 8
     }
   ],
   "placement": {
-    "type": "repurposed_structures:advanced_random_spread",
+    "type": "minecraft:random_spread",
     "salt": 608450500,
     "spacing": 16,
     "separation": 8,
-    "super_exclusion_zone": {
-      "chunk_count": 10,
+    "exclusion_zone": {
+      "chunk_count": 12,
       "other_set": "#repurposed_structures:overworld_village_avoid"
     }
   }

@@ -2,7 +2,6 @@
   "replace": false,
   "values": [
     "minecraft:villages",
-    "minecraft:pillager_outposts",
-    "towns_and_towers:town"
+    "minecraft:pillager_outposts"
   ]
 }
