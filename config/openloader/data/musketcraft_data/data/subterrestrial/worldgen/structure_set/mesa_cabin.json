@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "subterrestrial:mesa_cabin",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 367681074,
+    "spacing": 8,
+    "separation": 5
+  }
+}

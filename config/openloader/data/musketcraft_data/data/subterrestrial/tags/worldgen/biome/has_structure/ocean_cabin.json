@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:has_structure/ocean_ruin_warm",
+    "#minecraft:is_ocean",
+    "minecraft:river"
+  ]
+}

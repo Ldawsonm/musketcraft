@@ -1,0 +1,9 @@
+{
+  "id" : "6bfd8567d25e4e1ab33e81fbf42bf1a0",
+  "name" : "LDawsonM2012",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcwMDMzNTI1ODY2NywKICAicHJvZmlsZUlkIiA6ICI2YmZkODU2N2QyNWU0ZTFhYjMzZTgxZmJmNDJiZjFhMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMRGF3c29uTTIwMTIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDdiYTZmYThkYzM1YzVmZjI2Y2NjNTlhYmIxZDYxMzJkZjMyZDdiNTg0MDg0ZWY5M2M2YmNlZDRmMGUxNzc2MiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

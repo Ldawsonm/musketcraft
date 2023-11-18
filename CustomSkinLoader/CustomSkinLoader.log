@@ -1,0 +1,264 @@
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 14.18.1
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 10 (amd64) version 10.0
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 17.0.8, Microsoft
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: unknown
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: Config File: C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\CustomSkinLoader.json
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: Try to load config.
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: Successfully load config.
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSKinAPIPlus
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GlitchlessAPI
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: version : 14.18.1
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 22
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "Wynntils", "type": "WynntilsAPI", "root": "https://athena.wynntils.com/user/getInfo" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "LabyMod", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://dl.labymod.net/capes/{STANDARD_UUID}" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: enableDynamicSkull : true
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: forceIgnoreHttpsCertificate : false
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
+[2023-11-18 14:20:58] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
+[2023-11-18 14:20:58] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Loading LDawsonM2012's profile.
+[2023-11-18 14:20:58] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
+[2023-11-18 14:20:58] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2023-11-18 14:20:58] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Payload: ["LDawsonM2012"]
+[2023-11-18 14:20:58] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 78)
+[2023-11-18 14:20:58] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Content: [ {
+  "id" : "6bfd8567d25e4e1ab33e81fbf42bf1a0",
+  "name" : "LDawsonM2012"
+} ]
+[2023-11-18 14:20:58] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/6bfd8567d25e4e1ab33e81fbf42bf1a0'.
+[2023-11-18 14:20:59] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 546)
+[2023-11-18 14:20:59] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 546 , Path: 'C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\caches\66cbae87b2586e513f242e3b9dc08d967d0e3373' , Expire: 1700335289)
+[2023-11-18 14:20:59] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Content: {
+  "id" : "6bfd8567d25e4e1ab33e81fbf42bf1a0",
+  "name" : "LDawsonM2012",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcwMDMzNTI1ODY2NywKICAicHJvZmlsZUlkIiA6ICI2YmZkODU2N2QyNWU0ZTFhYjMzZTgxZmJmNDJiZjFhMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMRGF3c29uTTIwMTIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDdiYTZmYThkYzM1YzVmZjI2Y2NjNTlhYmIxZDYxMzJkZjMyZDdiNTg0MDg0ZWY5M2M2YmNlZDRmMGUxNzc2MiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}
+[2023-11-18 14:20:59] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LittleSkin'.
+[2023-11-18 14:20:59] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/LDawsonM2012.json'.
+[2023-11-18 14:21:06] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 504)
+[2023-11-18 14:21:06] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Profile not found.
+[2023-11-18 14:21:06] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'BlessingSkin'.
+[2023-11-18 14:21:06] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/LDawsonM2012.json'.
+[2023-11-18 14:21:06] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2023-11-18 14:21:06] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Profile not found.
+[2023-11-18 14:21:06] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'ElyBy'.
+[2023-11-18 14:21:06] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/LDawsonM2012'.
+[2023-11-18 14:21:07] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 121)
+[2023-11-18 14:21:07] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 121 , Path: 'C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\caches\bc0c87b7e41fb542573e2e0b5a15e56580e31568' , Expire: 1700335362)
+[2023-11-18 14:21:07] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://textures.minecraft.net/texture/d7ba6fa8dc35c5ff26ccc59abb1d6132df32d7b584084ef93c6bced4f0e17762"}}
+[2023-11-18 14:21:07] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'SkinMe'.
+[2023-11-18 14:21:07] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/LDawsonM2012.json'.
+[2023-11-18 14:21:07] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/LDawsonM2012.json (Exception: java.net.UnknownHostException: www.skinme.cc)
+[2023-11-18 14:21:07] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Profile not found.
+[2023-11-18 14:21:07] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'TLauncher'.
+[2023-11-18 14:21:07] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/LDawsonM2012'.
+[2023-11-18 14:21:07] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2023-11-18 14:21:07] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 121 , Path: 'C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\caches\953e0b6b8f6a45a6eddfbecc5b6fca1c85d39ff9' , Expire: 1700335359)
+[2023-11-18 14:21:07] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://textures.minecraft.net/texture/d7ba6fa8dc35c5ff26ccc59abb1d6132df32d7b584084ef93c6bced4f0e17762"}}
+[2023-11-18 14:21:07] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'GlitchlessGames'.
+[2023-11-18 14:21:07] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=LDawsonM2012'.
+[2023-11-18 14:21:08] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2023-11-18 14:21:08] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Profile not found.
+[2023-11-18 14:21:08] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'LocalSkin'.
+[2023-11-18 14:21:08] [LDawsonM2012/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2023-11-18 14:21:08] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'MinecraftCapes'.
+[2023-11-18 14:21:08] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/6bfd8567d25e4e1ab33e81fbf42bf1a0'.
+[2023-11-18 14:21:08] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
+[2023-11-18 14:21:08] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 96 , Path: 'C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\caches\9ddbf29de1a3d26688ac6560897a06a960fb7a7b' , Expire: 0)
+[2023-11-18 14:21:08] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\caches\9ddbf29de1a3d26688ac6560897a06a960fb7a7b'.
+[2023-11-18 14:21:08] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2023-11-18 14:21:08] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"textures":{"cape":null,"ears":null}}
+[2023-11-18 14:21:08] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2023-11-18 14:21:08] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'OptiFine'.
+[2023-11-18 14:21:08] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/LDawsonM2012.png'.
+[2023-11-18 14:21:09] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2023-11-18 14:21:09] [LDawsonM2012/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2023-11-18 14:21:09] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'Wynntils'.
+[2023-11-18 14:21:09] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://athena.wynntils.com/user/getInfo'.
+[2023-11-18 14:21:09] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Payload: {"uuid":"6bfd8567-d25e-4e1a-b33e-81fbf42bf1a0"}
+[2023-11-18 14:21:11] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2023-11-18 14:21:11] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Profile not found.
+[2023-11-18 14:21:11] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'CloakPlus'.
+[2023-11-18 14:21:11] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/LDawsonM2012.png'.
+[2023-11-18 14:21:12] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2023-11-18 14:21:12] [LDawsonM2012/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2023-11-18 14:21:12] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'LabyMod'.
+[2023-11-18 14:21:12] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://dl.labymod.net/capes/6bfd8567-d25e-4e1a-b33e-81fbf42bf1a0'.
+[2023-11-18 14:21:12] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2023-11-18 14:21:12] [LDawsonM2012/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2023-11-18 14:21:12] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
+[2023-11-18 14:21:12] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.cosmetica.cc/get/cloak?username=LDawsonM2012&uuid=6bfd8567-d25e-4e1a-b33e-81fbf42bf1a0&nothirdparty'.
+[2023-11-18 14:21:14] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3693)
+[2023-11-18 14:21:14] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 3693 , Path: 'C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\caches\9792be97aa4aea9e758210a570fc31c565267031' , Expire: 1700335876)
+[2023-11-18 14:21:14] [LDawsonM2012/INFO] [CustomSkinLoader Core]: LDawsonM2012's profile loaded.
+[2023-11-18 14:21:14] [LDawsonM2012/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/d7ba6fa8dc35c5ff26ccc59abb1d6132df32d7b584084ef93c6bced4f0e17762 , Model: default , CapeUrl: (LEGACY)https://api.cosmetica.cc/get/cloak?username=LDawsonM2012&uuid=6bfd8567-d25e-4e1a-b33e-81fbf42bf1a0&nothirdparty  , Expiry: 1700335304)
+texture/d7ba6fa8dc35c5ff26ccc59abb1d6132df32d7b584084ef93c6bced4f0e17762 , Model: default , CapeUrl: (LEGACY)https://api.cosmetica.cc/get/cloak?username=LDawsonM2012&uuid=6bfd8567-d25e-4e1a-b33e-81fbf42bf1a0&nothirdparty  , Expiry: 1700334932)
+s://api.cosmetica.cc/get/cloak?username=LDawsonM2012&uuid=6bfd8567-d25e-4e1a-b33e-81fbf42bf1a0&nothirdparty  , Expiry: 1700334361)
+tps://sessionserver.mojang.com/session/minecraft/profile/6bfd8567d25e4e1ab33e81fbf42bf1a0'.
+[2023-11-18 11:56:56] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 546)
+[2023-11-18 11:56:56] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 546 , Path: 'C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\caches\66cbae87b2586e513f242e3b9dc08d967d0e3373' , Expire: 1700326646)
+[2023-11-18 11:56:56] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Content: {
+  "id" : "6bfd8567d25e4e1ab33e81fbf42bf1a0",
+  "name" : "LDawsonM2012",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcwMDMyNjYxNTc5NSwKICAicHJvZmlsZUlkIiA6ICI2YmZkODU2N2QyNWU0ZTFhYjMzZTgxZmJmNDJiZjFhMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMRGF3c29uTTIwMTIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDdiYTZmYThkYzM1YzVmZjI2Y2NjNTlhYmIxZDYxMzJkZjMyZDdiNTg0MDg0ZWY5M2M2YmNlZDRmMGUxNzc2MiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}
+[2023-11-18 11:56:56] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LittleSkin'.
+[2023-11-18 11:56:56] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/LDawsonM2012.json'.
+[2023-11-18 11:56:59] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 2)
+[2023-11-18 11:56:59] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\caches\f21fef558129b6c680c564b4a1ad9094fcc0088f' , Expire: 1700326714)
+[2023-11-18 11:56:59] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2023-11-18 11:56:59] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2023-11-18 11:56:59] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'BlessingSkin'.
+[2023-11-18 11:56:59] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/LDawsonM2012.json'.
+[2023-11-18 11:56:59] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2023-11-18 11:56:59] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Profile not found.
+[2023-11-18 11:56:59] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'ElyBy'.
+[2023-11-18 11:56:59] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/LDawsonM2012'.
+[2023-11-18 11:57:00] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 121)
+[2023-11-18 11:57:00] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 121 , Path: 'C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\caches\bc0c87b7e41fb542573e2e0b5a15e56580e31568' , Expire: 1700326711)
+[2023-11-18 11:57:00] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://textures.minecraft.net/texture/d7ba6fa8dc35c5ff26ccc59abb1d6132df32d7b584084ef93c6bced4f0e17762"}}
+[2023-11-18 11:57:00] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'SkinMe'.
+[2023-11-18 11:57:00] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/LDawsonM2012.json'.
+[2023-11-18 11:57:00] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/LDawsonM2012.json (Exception: java.net.UnknownHostException: www.skinme.cc)
+[2023-11-18 11:57:00] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Profile not found.
+[2023-11-18 11:57:00] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'TLauncher'.
+[2023-11-18 11:57:00] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/LDawsonM2012'.
+[2023-11-18 11:57:01] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2023-11-18 11:57:01] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 121 , Path: 'C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\caches\953e0b6b8f6a45a6eddfbecc5b6fca1c85d39ff9' , Expire: 1700326714)
+[2023-11-18 11:57:01] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://textures.minecraft.net/texture/d7ba6fa8dc35c5ff26ccc59abb1d6132df32d7b584084ef93c6bced4f0e17762"}}
+[2023-11-18 11:57:01] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'GlitchlessGames'.
+[2023-11-18 11:57:01] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=LDawsonM2012'.
+[2023-11-18 11:57:01] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2023-11-18 11:57:01] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Profile not found.
+[2023-11-18 11:57:01] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'LocalSkin'.
+[2023-11-18 11:57:01] [LDawsonM2012/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2023-11-18 11:57:01] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'MinecraftCapes'.
+[2023-11-18 11:57:01] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/6bfd8567d25e4e1ab33e81fbf42bf1a0'.
+[2023-11-18 11:57:01] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
+[2023-11-18 11:57:01] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 96 , Path: 'C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\caches\9ddbf29de1a3d26688ac6560897a06a960fb7a7b' , Expire: 0)
+[2023-11-18 11:57:01] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\caches\9ddbf29de1a3d26688ac6560897a06a960fb7a7b'.
+[2023-11-18 11:57:01] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2023-11-18 11:57:01] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"textures":{"cape":null,"ears":null}}
+[2023-11-18 11:57:01] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2023-11-18 11:57:01] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'OptiFine'.
+[2023-11-18 11:57:01] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/LDawsonM2012.png'.
+[2023-11-18 11:57:02] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2023-11-18 11:57:02] [LDawsonM2012/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2023-11-18 11:57:02] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'Wynntils'.
+[2023-11-18 11:57:02] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://athena.wynntils.com/user/getInfo'.
+[2023-11-18 11:57:02] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Payload: {"uuid":"6bfd8567-d25e-4e1a-b33e-81fbf42bf1a0"}
+[2023-11-18 11:57:04] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2023-11-18 11:57:04] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Profile not found.
+[2023-11-18 11:57:04] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'CloakPlus'.
+[2023-11-18 11:57:04] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/LDawsonM2012.png'.
+[2023-11-18 11:57:04] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2023-11-18 11:57:04] [LDawsonM2012/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2023-11-18 11:57:04] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'LabyMod'.
+[2023-11-18 11:57:04] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://dl.labymod.net/capes/6bfd8567-d25e-4e1a-b33e-81fbf42bf1a0'.
+[2023-11-18 11:57:04] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2023-11-18 11:57:04] [LDawsonM2012/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2023-11-18 11:57:04] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
+[2023-11-18 11:57:04] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.cosmetica.cc/get/cloak?username=LDawsonM2012&uuid=6bfd8567-d25e-4e1a-b33e-81fbf42bf1a0&nothirdparty'.
+[2023-11-18 11:57:08] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2023-11-18 11:57:08] [LDawsonM2012/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2023-11-18 11:57:08] [LDawsonM2012/INFO] [CustomSkinLoader Core]: LDawsonM2012's profile loaded.
+[2023-11-18 11:57:08] [LDawsonM2012/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/d7ba6fa8dc35c5ff26ccc59abb1d6132df32d7b584084ef93c6bced4f0e17762 , Model: default , CapeUrl: null  , Expiry: 1700326658)
+[2023-11-18 12:42:36] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Loading LDawsonM2012's profile.
+[2023-11-18 12:42:36] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
+[2023-11-18 12:42:36] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/6bfd8567d25e4e1ab33e81fbf42bf1a0'.
+[2023-11-18 12:42:37] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 546)
+[2023-11-18 12:42:37] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 546 , Path: 'C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\caches\66cbae87b2586e513f242e3b9dc08d967d0e3373' , Expire: 1700329387)
+[2023-11-18 12:42:37] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Content: {
+  "id" : "6bfd8567d25e4e1ab33e81fbf42bf1a0",
+  "name" : "LDawsonM2012",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcwMDMyOTM1NjU3MSwKICAicHJvZmlsZUlkIiA6ICI2YmZkODU2N2QyNWU0ZTFhYjMzZTgxZmJmNDJiZjFhMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMRGF3c29uTTIwMTIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDdiYTZmYThkYzM1YzVmZjI2Y2NjNTlhYmIxZDYxMzJkZjMyZDdiNTg0MDg0ZWY5M2M2YmNlZDRmMGUxNzc2MiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}
+[2023-11-18 12:42:37] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LittleSkin'.
+[2023-11-18 12:42:37] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/LDawsonM2012.json'.
+[2023-11-18 12:42:38] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 2)
+[2023-11-18 12:42:38] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\caches\f21fef558129b6c680c564b4a1ad9094fcc0088f' , Expire: 1700329450)
+[2023-11-18 12:42:38] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2023-11-18 12:42:38] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2023-11-18 12:42:38] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'BlessingSkin'.
+[2023-11-18 12:42:38] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/LDawsonM2012.json'.
+[2023-11-18 12:42:39] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2023-11-18 12:42:39] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Profile not found.
+[2023-11-18 12:42:39] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'ElyBy'.
+[2023-11-18 12:42:39] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/LDawsonM2012'.
+[2023-11-18 12:42:40] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 121)
+[2023-11-18 12:42:40] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 121 , Path: 'C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\caches\bc0c87b7e41fb542573e2e0b5a15e56580e31568' , Expire: 1700329450)
+[2023-11-18 12:42:40] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://textures.minecraft.net/texture/d7ba6fa8dc35c5ff26ccc59abb1d6132df32d7b584084ef93c6bced4f0e17762"}}
+[2023-11-18 12:42:40] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'SkinMe'.
+[2023-11-18 12:42:40] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/LDawsonM2012.json'.
+[2023-11-18 12:42:40] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/LDawsonM2012.json (Exception: java.net.UnknownHostException: www.skinme.cc)
+[2023-11-18 12:42:40] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Profile not found.
+[2023-11-18 12:42:40] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'TLauncher'.
+[2023-11-18 12:42:40] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/LDawsonM2012'.
+[2023-11-18 12:42:41] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2023-11-18 12:42:41] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 121 , Path: 'C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\caches\953e0b6b8f6a45a6eddfbecc5b6fca1c85d39ff9' , Expire: 1700329453)
+[2023-11-18 12:42:41] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://textures.minecraft.net/texture/d7ba6fa8dc35c5ff26ccc59abb1d6132df32d7b584084ef93c6bced4f0e17762"}}
+[2023-11-18 12:42:41] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'GlitchlessGames'.
+[2023-11-18 12:42:41] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=LDawsonM2012'.
+[2023-11-18 12:42:41] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2023-11-18 12:42:41] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Profile not found.
+[2023-11-18 12:42:41] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'LocalSkin'.
+[2023-11-18 12:42:41] [LDawsonM2012/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2023-11-18 12:42:41] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'MinecraftCapes'.
+[2023-11-18 12:42:41] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/6bfd8567d25e4e1ab33e81fbf42bf1a0'.
+[2023-11-18 12:42:42] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
+[2023-11-18 12:42:42] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 96 , Path: 'C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\caches\9ddbf29de1a3d26688ac6560897a06a960fb7a7b' , Expire: 0)
+[2023-11-18 12:42:42] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\caches\9ddbf29de1a3d26688ac6560897a06a960fb7a7b'.
+[2023-11-18 12:42:42] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2023-11-18 12:42:42] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"textures":{"cape":null,"ears":null}}
+[2023-11-18 12:42:42] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2023-11-18 12:42:42] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'OptiFine'.
+[2023-11-18 12:42:42] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/LDawsonM2012.png'.
+[2023-11-18 12:42:42] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2023-11-18 12:42:42] [LDawsonM2012/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2023-11-18 12:42:42] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'Wynntils'.
+[2023-11-18 12:42:42] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://athena.wynntils.com/user/getInfo'.
+[2023-11-18 12:42:42] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Payload: {"uuid":"6bfd8567-d25e-4e1a-b33e-81fbf42bf1a0"}
+[2023-11-18 12:42:45] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2023-11-18 12:42:45] [LDawsonM2012/INFO] [CustomSkinLoader Core]: Profile not found.
+[2023-11-18 12:42:45] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'CloakPlus'.
+[2023-11-18 12:42:45] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/LDawsonM2012.png'.
+[2023-11-18 12:42:45] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2023-11-18 12:42:45] [LDawsonM2012/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2023-11-18 12:42:45] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'LabyMod'.
+[2023-11-18 12:42:45] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://dl.labymod.net/capes/6bfd8567-d25e-4e1a-b33e-81fbf42bf1a0'.
+[2023-11-18 12:42:45] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2023-11-18 12:42:45] [LDawsonM2012/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2023-11-18 12:42:45] [LDawsonM2012/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
+[2023-11-18 12:42:45] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.cosmetica.cc/get/cloak?username=LDawsonM2012&uuid=6bfd8567-d25e-4e1a-b33e-81fbf42bf1a0&nothirdparty'.
+[2023-11-18 12:42:47] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3693)
+[2023-11-18 12:42:47] [LDawsonM2012/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 3693 , Path: 'C:\Users\ldmar\curseforge\minecraft\Instances\Musketeer - One for All\CustomSkinLoader\caches\9792be97aa4aea9e758210a570fc31c565267031' , Expire: 1700329968)
+[2023-11-18 12:42:47] [LDawsonM2012/INFO] [CustomSkinLoader Core]: LDawsonM2012's profile loaded.
+[2023-11-18 12:42:47] [LDawsonM2012/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/d7ba6fa8dc35c5ff26ccc59abb1d6132df32d7b584084ef93c6bced4f0e17762 , Model: default , CapeUrl: (LEGACY)https://api.cosmetica.cc/get/cloak?username=LDawsonM2012&uuid=6bfd8567-d25e-4e1a-b33e-81fbf42bf1a0&nothirdparty  , Expiry: 1700329397)

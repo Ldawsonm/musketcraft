@@ -1,6 +1,8 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:minecraft:wheat",
+    "item:minecraft:packed_mud",
     "item:quark:deepslate_furnace",
     "item:clayworks:kiln",
     "item:minecraft:tripwire_hook",
@@ -8,7 +10,6 @@
     "item:minecraft:arrow",
     "item:minecraft:furnace",
     "item:minecraft:smoker",
-    "item:minecraft:packed_mud",
     "item:minecraft:mud_bricks",
     "item:quark:blackstone_furnace",
     "item:minecraft:slime_block",
@@ -82,11 +83,6 @@
       "amount": 9
     },
     "item:minecraft:dispenser",
-    {
-      "type": "item",
-      "id": "minecraft:wheat",
-      "amount": 18
-    },
     "item:connectedglass:borderless_glass_pane",
     "item:connectedglass:clear_glass_pane",
     "item:connectedglass:scratched_glass_cyan_pane",
