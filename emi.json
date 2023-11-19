@@ -1,6 +1,9 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:windswept:wild_berry_juice",
+    "item:windswept:wild_berry_cookie",
+    "item:minecraft:gray_dye",
     "item:minecraft:wheat",
     "item:minecraft:packed_mud",
     "item:quark:deepslate_furnace",
@@ -21,11 +24,6 @@
       "type": "item",
       "id": "kubejs:mango",
       "amount": 4
-    },
-    {
-      "type": "item",
-      "id": "windswept:wild_berry_juice",
-      "amount": 62
     },
     "item:kubejs:mango_crate",
     "item:kubejs:gildedmango",

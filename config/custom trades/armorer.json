@@ -79,6 +79,52 @@
       "demand": 0,
       "tradeLevel": 4,
       "UTID": "minecraft:armorer_multioffer_coast_armor_trim_smithing_template_for_emerald"
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "armor_trims:coast_armor_trim_smithing_template",
+          "amount": 1
+        },
+        {
+          "itemKey": "armor_trims:dune_armor_trim_smithing_template",
+          "amount": 1
+        },
+        {
+          "itemKey": "armor_trims:eye_armor_trim_smithing_template",
+          "amount": 1
+        },
+        {
+          "itemKey": "armor_trims:host_armor_trim_smithing_template",
+          "amount": 1
+        },
+        {
+          "itemKey": "armor_trims:raiser_armor_trim_smithing_template",
+          "amount": 1
+        },
+        {
+          "itemKey": "armor_trims:rib_armor_trim_smithing_template",
+          "amount": 1
+        },
+        {
+          "itemKey": "armor_trims:sentry_armor_trim_smithing_template",
+          "amount": 1
+        },
+        {
+          "itemKey": "armor_trims:shaper_armor_trim_smithing_template",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 10
+      },
+      "tradeExp": 5,
+      "maxUses": 3,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:armorer_multioffer_coast_armor_trim_smithing_template_for_emerald_0"
     }
   ]
 }
