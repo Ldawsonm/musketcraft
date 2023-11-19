@@ -50,11 +50,7 @@ craftingTable.addShaped("copper_abacus", <item:quark:abacus>,
     [[<tag:items:minecraft:planks>, <item:minecraft:stick>, <tag:items:minecraft:planks>],
      [<tag:items:minecraft:planks>, copper, <tag:items:minecraft:planks>],
      [<tag:items:minecraft:planks>, <item:minecraft:stick>, <tag:items:minecraft:planks>]]);
-# Compass
-craftingTable.addShaped("copper_compass", <item:minecraft:compass>,
-    [[air, copper, air],
-     [copper, <item:minecraft:redstone>, copper],
-     [air, copper, air]]);
+
 
 # Copper replaces Iron in the following recipes:
 # Storage Crate
@@ -147,3 +143,10 @@ craftingTable.addShaped("thematic_crossbow", <item:minecraft:crossbow>, [
 # Rotten flesh to Leather
 val flesh = <item:minecraft:rotten_flesh>;
 craftingTable.addShapeless("flesh2leather", <item:minecraft:leather>, [flesh, flesh, flesh, flesh]);
+
+# Tracking Compass
+craftingTable.remove(<item:playertrackingcompass:tracking_compass>);
+craftingTable.addShaped("tracking_compass", <item:playertrackingcompass:tracking_compass>,
+    [[air, copper, air],
+     [copper, <item:minecraft:redstone>, copper],
+     [air, copper, air]]);

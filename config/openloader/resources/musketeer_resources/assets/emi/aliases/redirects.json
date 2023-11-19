@@ -41,10 +41,13 @@
 				"item:minecraft:map",
 				"item:minecraft:white_wool",
 				"item:map_atlases:atlas",
-        		"item:minecraft:anvil"
+        		"item:minecraft:anvil",
+				"item:playertrackingcompass:tracking_compass",
+				"item:smallships:sail",
+				"item:comforts:hammock_white"
 			],
 			"text": [
-				"Musketeer's Tools",
+				"MusketCraft's Tools",
 				"Starter Kit",
 				"101",
 				"Introduction",

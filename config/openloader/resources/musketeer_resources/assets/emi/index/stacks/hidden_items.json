@@ -1281,7 +1281,12 @@
         "item:minecraft:goat_horn{instrument:\"minecraft:dream_goat_horn\"}",
         "#item:minecraft:music_discs",
         "item:windswept:music_disc_bumblebee",
-        "item:supplementaries:altimeter"
+        "item:supplementaries:altimeter",
+        "item:minecraft:milk",
+        "item:guardvillagers:guard_spawn_egg",
+        "item:guardvillagers:iron_golem_spawn_egg",
+        "item:guardvillagers:snow_golem_spawn_egg",
+        "item:guardvillagers:illusioner_spawn_egg"
     ],
     "added": []
 }

@@ -1,6 +1,19 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:berry_good:glowgurt",
+    "item:minecraft:leather_horse_armor",
+    "item:minecraft:glowstone_dust",
+    "item:chalk:white_chalk{Damage:0}",
+    "item:comforts:sleeping_bag_white",
+    "item:minecraft:sand",
+    "item:smallships:sail",
+    "item:comforts:hammock_magenta",
+    "item:smallships:oak_cog",
+    "item:smallships:spruce_brigg",
+    "item:supplementaries:flax_seeds",
+    "item:minecraft:dirt_path",
+    "item:minecraft:anvil",
     "item:berry_good:sweet_berry_mince",
     "item:berry_good:sweet_berry_meatballs",
     "item:minecraft:rabbit_stew",
@@ -50,7 +63,6 @@
     "item:minecraft:milk_bucket",
     "item:minecraft:golden_carrot",
     "item:quark:carrot_crate",
-    "item:berry_good:glowgurt",
     "item:betteramethyst:amethyst_crystal_block",
     "item:betteramethyst:chiseled_amethyst_crystal_block",
     "item:betteramethyst:amethyst_bricks",
@@ -369,7 +381,6 @@
     "item:quark:orange_rune",
     "item:quark:blank_rune",
     "item:quark:magenta_rune",
-    "item:minecraft:glowstone_dust",
     "item:berry_good:glow_berry_pips",
     "item:quark:framed_glass",
     "item:quark:yellow_framed_glass",
@@ -434,14 +445,12 @@
     "item:minecraft:dripstone_block",
     "item:supplementaries:planter",
     "item:minecraft:ancient_debris",
-    "item:minecraft:leather_horse_armor",
     "item:quark:gunpowder_sack",
     "item:minecraft:feather",
     "item:minecraft:cooked_chicken",
     "item:minecraft:cake",
     "item:smallships:oak_galley",
     "item:smallships:oak_brigg",
-    "item:smallships:oak_cog",
     {
       "type": "item",
       "id": "minecraft:fire_charge",
@@ -503,18 +512,14 @@
     "item:supplementaries:wrench{Damage:0}",
     "item:quark:slime_in_a_bucket",
     "item:quark:torch_arrow",
-    "item:chalk:white_chalk{Damage:0}",
     "item:minecraft:magenta_dye",
     "#item:forge:dyes/magenta",
-    "item:comforts:sleeping_bag_white",
     "item:moreminecarts:lightspeed_powered_rail",
     "item:minecraft:blaze_powder",
     "item:minecraft:splash_potion{Potion:\"minecraft:awkward\"}",
     "item:minecraft:emerald",
-    "item:minecraft:dirt_path",
     "item:minecraft:netherrack",
     "item:minecraft:cactus",
-    "item:minecraft:sand",
     "item:minecraft:packed_ice",
     "item:minecraft:honeycomb",
     "item:minecraft:calcite",
@@ -625,5 +630,11 @@
     "resolutions": {},
     "disabled": []
   },
-  "hidden_stacks": []
+  "hidden_stacks": [
+    {
+      "type": "fluid",
+      "id": "minecraft:milk",
+      "amount": 0
+    }
+  ]
 }
