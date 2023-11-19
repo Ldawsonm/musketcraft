@@ -5,13 +5,9 @@
       "rolls": {
         "type": "minecraft:uniform",
         "min": 1.0,
-        "max": 3.0
+        "max": 2.0
       },
       "entries": [
-        {
-          "type": "minecraft:loot_table",
-          "name": "nova_structures:chests/tavern_quest/ruin_town"
-        },
         {
           "type": "minecraft:loot_table",
           "name": "nova_structures:chests/tavern_quest/jungle_ruin"
@@ -35,6 +31,38 @@
         {
           "type": "minecraft:loot_table",
           "name": "nova_structures:chests/tavern_quest/stray_fort"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/tavern_quest/ancient_city_ocean"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/tavern_quest/bastion_underground"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/tavern_quest/city_overworld"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/tavern_quest/mansion"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/tavern_quest/monument"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/tavern_quest/pyramid"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/tavern_quest/sunken_village"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/tavern_quest/witch_village"
         }
       ]
     }

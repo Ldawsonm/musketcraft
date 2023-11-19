@@ -2,75 +2,75 @@
   "structures": [
     {
       "structure": "repurposed_structures:village_badlands",
-      "weight": 7
+      "weight": 8
     },
     {
       "structure": "repurposed_structures:village_birch",
-      "weight": 7
+      "weight": 8
     },
     {
       "structure": "repurposed_structures:village_dark_forest",
-      "weight": 7
+      "weight": 8
     },
     {
       "structure": "repurposed_structures:village_giant_taiga",
-      "weight": 7
+      "weight": 8
     },
     {
       "structure": "repurposed_structures:village_jungle",
-      "weight": 7
+      "weight": 8
     },
     {
       "structure": "repurposed_structures:village_mountains",
-      "weight": 7
+      "weight": 8
     },
     {
       "structure": "repurposed_structures:village_oak",
-      "weight": 7
+      "weight": 8
     },
     {
       "structure": "repurposed_structures:village_swamp",
-      "weight": 7
+      "weight": 8
     },
     {
       "structure": "repurposed_structures:village_ocean",
-      "weight": 2
+      "weight": 3
     },
     {
         "structure": "towns_and_towers:village_old_growth_taiga",
-        "weight": 4
+        "weight": 5
     },
     {
         "structure": "towns_and_towers:village_snowy_taiga",
-        "weight": 4
+        "weight": 5
     },
     {
         "structure": "towns_and_towers:village_badlands",
-        "weight": 4
+        "weight": 5
     },
     {
         "structure": "towns_and_towers:village_sunflower_plains",
-        "weight": 4
+        "weight": 5
     },
     {
         "structure": "towns_and_towers:village_wooded_badlands",
-        "weight": 4
+        "weight": 5
     },
     {
         "structure": "towns_and_towers:village_meadow",
-        "weight": 4
+        "weight": 5
     },
     {
         "structure": "towns_and_towers:village_swamp",
-        "weight": 4
+        "weight": 5
     },
     {
         "structure": "towns_and_towers:village_grove",
-        "weight": 4
+        "weight": 5
     },
     {
         "structure": "towns_and_towers:village_ocean",
-        "weight": 2
+        "weight": 4
     },
     {
         "structure": "towns_and_towers:village_forest",
@@ -78,19 +78,19 @@
     },
     {
         "structure": "towns_and_towers:village_snowy_slopes",
-        "weight": 4
+        "weight": 5
     },
     {
         "structure": "towns_and_towers:village_sparse_jungle",
-        "weight": 4
+        "weight": 5
     },
     {
         "structure": "towns_and_towers:village_jungle",
-        "weight": 4
+        "weight": 5
     },
     {
         "structure": "towns_and_towers:village_birch_forest",
-        "weight": 4
+        "weight": 5
     },
     {
       "structure": "repurposed_structures:outpost_badlands",
@@ -162,7 +162,7 @@
     },
     {
         "structure": "towns_and_towers:pillager_outpost_ocean",
-        "weight": 2
+        "weight": 5
     },
     {
         "structure": "towns_and_towers:pillager_outpost_old_growth_taiga",
@@ -246,7 +246,7 @@
     },
     {
 			"structure": "nova_structures:badlands_miner_outpost",
-			"weight": 3
+			"weight": 2
 		},
     {
 			"structure": "nova_structures:illager_camp",
@@ -254,36 +254,40 @@
 		},
     {
 			"structure": "nova_structures:tavern_acacia",
-			"weight": 3
+			"weight": 2
 		},
     {
 			"structure": "nova_structures:tavern_birch",
-			"weight": 3
+			"weight": 2
 		},
     {
 			"structure": "nova_structures:tavern_dark_oak",
-			"weight": 3
+			"weight": 2
 		},
     {
 			"structure": "nova_structures:tavern_desert",
-			"weight": 3
+			"weight": 2
 		},
     {
 			"structure": "nova_structures:tavern_mangrove",
-			"weight": 3
+			"weight": 2
 		},
     {
 			"structure": "nova_structures:tavern_oak",
-			"weight": 3
+			"weight": 2
 		},
     {
 			"structure": "nova_structures:tavern_spruce",
-			"weight": 3
+			"weight": 2
 		},
     {
 			"structure": "nova_structures:jungle_ruins",
 			"weight": 6
-		}
+		},
+    {
+      "structure": "villagesandpillages:village_witch",
+      "weight": 3
+    }
   ],
   "placement": {
     "type": "minecraft:random_spread",

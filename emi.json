@@ -1,6 +1,11 @@
 {
   "favorites": [],
   "lookup_history": [
+    {
+      "type": "item",
+      "id": "quark:blue_corundum_cluster",
+      "amount": 4
+    },
     "item:windswept:wild_berry_juice",
     "item:windswept:wild_berry_cookie",
     "item:minecraft:gray_dye",
