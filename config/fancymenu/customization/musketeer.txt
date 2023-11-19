@@ -97,6 +97,11 @@ customization {
 
 customization {
   identifier = %id=4936%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=4936%
   orientation = bottom-left
   x = 0
   action = movebutton
@@ -419,5 +424,10 @@ customization {
   y = 8
   tick_mode = on_menu_load
   height = 14
+}
+
+customization {
+  identifier = %id=44%
+  action = hidebutton
 }
 

@@ -1,0 +1,68 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.PauseScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  orientation = bottom-centered
+  x = -102
+  action = movebutton
+  y = -152
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
+  orientation = bottom-centered
+  x = 4
+  action = movebutton
+  y = -199
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  orientation = bottom-centered
+  x = -102
+  action = movebutton
+  y = -199
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;tutorial%btnaction_splitter_fm%
+  x = 218
+  width = 204
+  action = addbutton
+  actionid = 02cce850-b055-4981-9aac-a9918cbd8c381700417294559
+  y = 163
+  label = Tutorial
+  height = 20
+}
+
+customization {
+  identifier = %id=398354%
+  action = hidebutton
+}
+

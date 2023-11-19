@@ -1,0 +1,87 @@
+type = menu
+
+customization-meta {
+  identifier = newcontrols
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  custom_menu_title = 
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = fancymenu_setups/_images/loading_background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = fancymenu_setups/_images/gray_box.png
+  orientation = element
+  orientation_element = 5a0edf28-fb5c-4f64-b358-5c936ab34f8e1700416070524
+  x = -178
+  width = 547
+  action = addtexture
+  actionid = ee8bb18f-61c1-4dd4-91d4-349f8cc7a6d91700416619239
+  y = -6
+  height = 232
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = true
+  shadow = false
+  scale = 2.0
+  source = New Controls!
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -100
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 5a0edf28-fb5c-4f64-b358-5c936ab34f8e1700416070524
+  y = -90
+  alignment = centered
+  height = 40
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = ee8bb18f-61c1-4dd4-91d4-349f8cc7a6d91700416619239
+  buttonaction = opengui;tutorial%btnaction_splitter_fm%
+  x = 4
+  width = 100
+  action = addbutton
+  actionid = 3e03cb29-dd1b-4aec-ba34-0d05244c33a71700416826075
+  y = 3
+  label = Back
+  height = 20
+}
+
+customization {
+  orientation = element
+  enable_scrolling = true
+  shadow = true
+  scale = 1.5
+  source = Inventory Shortcuts
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  orientation_element = ee8bb18f-61c1-4dd4-91d4-349f8cc7a6d91700416619239
+  x = 38
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = de9e79a0-574f-4bd5-85ad-169695bb6da81700416948696
+  y = 31
+  alignment = centered
+  height = 20
+}
+

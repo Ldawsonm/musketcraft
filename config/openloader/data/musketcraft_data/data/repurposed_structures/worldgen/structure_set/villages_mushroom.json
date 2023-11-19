@@ -1,13 +1,6 @@
 {
   "structures": [
-    {
-      "structure": "repurposed_structures:village_mushroom",
-      "weight": 3
-    },
-    {
-      "structure": "towns_and_towers:village_mushroom_fields",
-      "weight": 1
-    }
+    
   ],
   "placement": {
     "type": "repurposed_structures:advanced_random_spread",

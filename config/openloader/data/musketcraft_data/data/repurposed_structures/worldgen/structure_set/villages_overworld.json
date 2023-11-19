@@ -282,11 +282,23 @@
 		},
     {
 			"structure": "nova_structures:jungle_ruins",
-			"weight": 6
+			"weight": 3
 		},
     {
       "structure": "villagesandpillages:village_witch",
       "weight": 3
+    },
+    {
+      "structure": "repurposed_structures:village_mushroom",
+      "weight": 3
+    },
+    {
+      "structure": "towns_and_towers:village_mushroom_fields",
+      "weight": 1
+    },
+    {
+      "structure": "qrafty:jungle_treevillage",
+      "weight": 6
     }
   ],
   "placement": {

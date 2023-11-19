@@ -143,3 +143,7 @@ craftingTable.addShaped("thematic_crossbow", <item:minecraft:crossbow>, [
     [iron, <item:minecraft:bow>, gunpowder],
     [air, air, log]
 ]);
+
+# Rotten flesh to Leather
+val flesh = <item:minecraft:rotten_flesh>;
+craftingTable.addShapeless("flesh2leather", <item:minecraft:leather>, [flesh, flesh, flesh, flesh]);

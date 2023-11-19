@@ -9,13 +9,24 @@ customization-meta {
 }
 
 customization {
-  path = fancymenu_setups/_images/loading.png
+  path = fancymenu_setups/_images/loading_background.png
   action = texturizebackground
 }
 
 customization {
   keepaspectratio = false
   action = backgroundoptions
+}
+
+customization {
+  path = fancymenu_setups/_images/gray_box.png
+  orientation = top-left
+  x = 89
+  width = 464
+  action = addtexture
+  actionid = af86f06b-44ed-457c-accf-e212186b89441700423613598
+  y = 39
+  height = 259
 }
 
 customization {
@@ -33,18 +44,16 @@ customization {
 
 customization {
   orientation = mid-centered
-  restartbackgroundanimations = true
-  buttonaction = closegui%btnaction_splitter_fm%
-  backgroundhovered = fancymenu_setups/_images/btn200_hover.png
-  label = Got it!
   loopbackgroundanimations = true
   hoverlabel = Got it!
+  restartbackgroundanimations = true
+  buttonaction = closegui%btnaction_splitter_fm%
   x = -100
   width = 200
   action = addbutton
   actionid = f1b20358-215d-4547-b5e1-41d3bd36b9991686592960698
-  y = 81
-  backgroundnormal = fancymenu_setups/_images/btn200.png
+  y = 80
+  label = Got it!
   height = 20
 }
 
@@ -67,13 +76,13 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 2.0
-  source = Musketeer Tutorial
+  source = MusketCraft Tutorial
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = -100
-  width = 200
+  x = -103
+  width = 208
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 54dd6161-d72e-453e-8f3f-8ed12cbcbb691697500464457
   y = -113
@@ -375,5 +384,35 @@ customization {
   actionid = 5f25f17f-39d4-454c-afba-6ce51e6cff4c1697503488646
   y = 29
   height = 60
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;inventoryguide%btnaction_splitter_fm%
+  x = 429
+  width = 100
+  action = addbutton
+  actionid = 8d865119-a3cb-4d29-a888-03cbeeabdd341700415658108
+  y = 56
+  label = Inventory Guide
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  basecolor = #ffff00
+  shadow = true
+  rotation = 20.0
+  scale = 0.5
+  refresh = false
+  bouncing = true
+  vanilla-like = false
+  x = 514
+  actionid = fa1bedff-3ae0-4a11-b32a-a224191429271700423115703
+  action = addsplash
+  y = 53
+  text = Click me!
 }
 

@@ -1,0 +1,3 @@
+identifier = newcontrols
+title = New Controls
+allowesc = true

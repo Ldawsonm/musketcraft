@@ -1,0 +1,3 @@
+identifier = inventoryguide
+title = 
+allowesc = true

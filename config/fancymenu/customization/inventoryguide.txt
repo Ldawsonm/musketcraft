@@ -1,0 +1,306 @@
+type = menu
+
+customization-meta {
+  identifier = inventoryguide
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = fancymenu_setups/_images/inventory_guide.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = fancymenu_setups/_images/gray_box.png
+  orientation = top-left
+  x = 185
+  width = 285
+  action = addtexture
+  actionid = c178318d-ac04-4840-83e5-34e67a19e0a81700423431079
+  y = 23
+  height = 55
+}
+
+customization {
+  orientation = top-centered
+  enable_scrolling = true
+  shadow = false
+  scale = 2.0
+  source = Inventory Guide
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -131
+  width = 266
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 71bee611-1447-4640-9e25-eeb88538f21f1700421422220
+  y = 32
+  alignment = centered
+  height = 40
+}
+
+customization {
+  orientation = element
+  enable_scrolling = false
+  shadow = false
+  scale = 1.0
+  source = Hover over the green boxes to see what they do!
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  orientation_element = 71bee611-1447-4640-9e25-eeb88538f21f1700421422220
+  x = -1
+  width = 273
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 3c42b13c-e113-4817-9a2f-e5adf4f6d5c41700421484248
+  y = 25
+  alignment = centered
+  base_color = #00A300
+  height = 15
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  backgroundhovered = fancymenu_setups/_images/gray_box.png
+  description = While hovering over an item, you can press...%n%%n%Shift + Left Click: Transfer whole stack%n%Ctrl + Left Click: Transfer one%n%Shift + Ctrl + Left Click: Transfer all of this type in inventory%n%%n%R: View Recipe%n%U: View Uses
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = 236
+  width = 23
+  action = addbutton
+  actionid = 97bb32eb-d833-4d9c-8f29-d95baf9492c71700421578325
+  y = 162
+  backgroundnormal = fancymenu_setups/_images/green_box.png
+  height = 24
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  backgroundhovered = fancymenu_setups/_images/gray_box.png
+  description = Opens cosmetic armor slots
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = 295
+  width = 12
+  action = addbutton
+  actionid = 7a68ce05-5d4a-4b98-8177-f0c25b1a16c31700422121959
+  y = 148
+  backgroundnormal = fancymenu_setups/_images/green_box.png
+  height = 12
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  backgroundhovered = fancymenu_setups/_images/gray_box.png
+  description = Opens and closes the Recipe Index
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = 334
+  width = 23
+  action = addbutton
+  actionid = bbbd4496-aba9-4e84-906f-ef90018dbe3a1700422129572
+  y = 140
+  backgroundnormal = fancymenu_setups/_images/green_box.png
+  height = 23
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  backgroundhovered = fancymenu_setups/_images/gray_box.png
+  description = Sorts your inventory%n%Note: You can also use Middle Click to sort your inventory
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = 388
+  width = 14
+  action = addbutton
+  actionid = cda99288-4134-408b-977b-6a40ef80aab01700422137438
+  y = 150
+  backgroundnormal = fancymenu_setups/_images/green_box.png
+  height = 15
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  backgroundhovered = fancymenu_setups/_images/gray_box.png
+  description = Click to switch between Favorites and Crafting History
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = 74
+  width = 20
+  action = addbutton
+  actionid = 94490fdc-e927-4ccf-b4f0-4c9f33ec46ec1700422151221
+  y = 86
+  backgroundnormal = fancymenu_setups/_images/green_box.png
+  height = 18
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  backgroundhovered = fancymenu_setups/_images/gray_box.png
+  description = Click to switch between the Recipe Index and Craftables
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = 434
+  width = 21
+  action = addbutton
+  actionid = f797d984-ac0a-4a8c-8a5f-bbbaa8eb9ee51700422163370
+  y = 87
+  backgroundnormal = fancymenu_setups/_images/green_box.png
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  backgroundhovered = fancymenu_setups/_images/gray_box.png
+  description = This is the Lookup History
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = 55
+  width = 166
+  action = addbutton
+  actionid = e991636d-e5c5-4d2d-ac02-ccb74d7e8b4d1700422177141
+  y = 219
+  backgroundnormal = fancymenu_setups/_images/green_box.png
+  height = 24
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  backgroundhovered = fancymenu_setups/_images/gray_box.png
+  description = Trash Slot!%n%%n%You can drag items in here, %n%or hover over them and press Delete%n%%n%You can also move the trash slot around %n%by clicking and dragging on the edge
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = 378
+  width = 28
+  action = addbutton
+  actionid = 7df3ca6b-2cac-420b-806e-d6bf93b81e6f1700422186177
+  y = 245
+  backgroundnormal = fancymenu_setups/_images/green_box.png
+  height = 25
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  backgroundhovered = fancymenu_setups/_images/gray_box.png
+  description = Click here to search the Recipe Index
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = 236
+  width = 167
+  action = addbutton
+  actionid = 4720761a-8dcf-4816-82cc-63252e33b7f91700422192997
+  y = 314
+  backgroundnormal = fancymenu_setups/_images/green_box.png
+  height = 24
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  backgroundhovered = fancymenu_setups/_images/gray_box.png
+  description = Click to cycle through Dark Mode styles
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = 0
+  width = 62
+  action = addbutton
+  actionid = b5bc6c5f-11e3-4aea-919e-017bc12f7d331700422232632
+  y = 291
+  backgroundnormal = fancymenu_setups/_images/green_box.png
+  height = 24
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  backgroundhovered = fancymenu_setups/_images/gray_box.png
+  description = Opens the Recipe Index settings
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = 0
+  width = 23
+  action = addbutton
+  actionid = bac07ca4-7f66-4c77-a2c5-d752214069811700422248792
+  y = 315
+  backgroundnormal = fancymenu_setups/_images/green_box.png
+  height = 24
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  backgroundhovered = fancymenu_setups/_images/gray_box.png
+  description = Opens the Crafting Tree
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = 22
+  width = 23
+  action = addbutton
+  actionid = 04b2e704-5830-4f3d-96bd-06fb3b407a1c1700422252159
+  y = 315
+  backgroundnormal = fancymenu_setups/_images/green_box.png
+  height = 24
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  backgroundhovered = fancymenu_setups/_images/gray_box.png
+  description = This is the Recipe Index%n%%n%Left Click will show the recipe%n%Right Click will show uses
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = 434
+  width = 23
+  action = addbutton
+  actionid = 25a6a325-b7c5-4e8c-9811-17053037575a1700422507110
+  y = 123
+  backgroundnormal = fancymenu_setups/_images/green_box.png
+  height = 24
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;tutorial%btnaction_splitter_fm%
+  x = 77
+  width = 100
+  action = addbutton
+  actionid = 3dc8333c-65a2-4c5c-a633-dbbeed4addfc1700423011113
+  y = 48
+  label = Back
+  height = 20
+}
+
