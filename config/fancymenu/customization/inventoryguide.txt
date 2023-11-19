@@ -73,7 +73,7 @@ customization {
   orientation = top-left
   restartbackgroundanimations = true
   backgroundhovered = fancymenu_setups/_images/gray_box.png
-  description = While hovering over an item, you can press...%n%%n%Shift + Left Click: Transfer whole stack%n%Ctrl + Left Click: Transfer one%n%Shift + Ctrl + Left Click: Transfer all of this type in inventory%n%%n%R: View Recipe%n%U: View Uses
+  description = While hovering over an item, you can press...%n%%n%Left Click: Pick up whole stack%n%Right Click: Pick up half stack%n%Shift + Left Click: Transfer whole stack%n%Ctrl + Left Click: Transfer one%n%Shift + Ctrl + Left Click: Transfer all of this type in inventory%n%%n%R: View Recipe%n%U: View Uses
   label = 
   loopbackgroundanimations = true
   hoverlabel = 
@@ -192,7 +192,7 @@ customization {
   orientation = top-left
   restartbackgroundanimations = true
   backgroundhovered = fancymenu_setups/_images/gray_box.png
-  description = Trash Slot!%n%%n%You can drag items in here, %n%or hover over them and press Delete%n%%n%You can also move the trash slot around %n%by clicking and dragging on the edge
+  description = Trash Slot!%n%%n%You can drag items to here, %n%or hover over them and press Delete%n%Shift + Delete to delete all of a type%n%%n%You can also move the trash slot around %n%by clicking and dragging on the edge
   label = 
   loopbackgroundanimations = true
   hoverlabel = 
