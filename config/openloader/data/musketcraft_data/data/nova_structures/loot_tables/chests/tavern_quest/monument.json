@@ -21,7 +21,7 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Monument Map"
+              "name": "Map to an Old Monument"
             }
           ],
           "name": "minecraft:map"

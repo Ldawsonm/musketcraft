@@ -210,7 +210,7 @@ key_supplementaries.keybind.quiver:key.keyboard.unknown
 key_key.screenshot_viewer.open_screenshots_screen:key.keyboard.unknown
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
 soundCategory_master:0.25827813
-soundCategory_music:0.0
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

@@ -21,7 +21,7 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Sky City Map"
+              "name": "Map to a Sky City"
             }
           ],
           "name": "minecraft:map"

@@ -21,7 +21,7 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Bastion Map"
+              "name": "Map to an Underground Bastion"
             }
           ],
           "name": "minecraft:map"

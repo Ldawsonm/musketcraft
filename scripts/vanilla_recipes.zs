@@ -42,14 +42,15 @@ var warped_nylium = <item:minecraft:warped_nylium>;
 var paper = <item:minecraft:paper>;
 var black_dye = <tag:items:forge:dyes/black>;
 var map = <item:minecraft:map>;
+var stone = <item:minecraft:stone>;
 
 // Lodestone but good
 craftingTable.remove(lodestone);
 craftingTable.addShaped("lodestone_but_good",
 		lodestone,
-		[[chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks],
-		 [chiseled_stone_bricks, amethyst_shard, chiseled_stone_bricks],
-		 [chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks]]);
+		[[stone, stone, stone],
+		 [stone, amethyst_shard, stone],
+		 [stone, stone, stone]]);
 
 
 // Gilded Blackstone

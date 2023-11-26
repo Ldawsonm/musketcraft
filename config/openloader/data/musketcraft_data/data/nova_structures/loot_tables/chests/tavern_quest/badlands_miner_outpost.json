@@ -21,7 +21,7 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Badlands Miner Outpost Map"
+              "name": "Map to a Gold Mine"
             }
           ],
           "name": "minecraft:map"

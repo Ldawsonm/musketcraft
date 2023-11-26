@@ -21,7 +21,7 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Ancient City Map"
+              "name": "Map to an Ancient City"
             }
           ],
           "name": "minecraft:map"

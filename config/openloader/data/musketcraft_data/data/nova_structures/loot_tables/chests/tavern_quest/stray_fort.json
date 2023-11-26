@@ -21,7 +21,7 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Stray Fortress Map"
+              "name": "Map to a Stray Fort"
             }
           ],
           "name": "minecraft:map"

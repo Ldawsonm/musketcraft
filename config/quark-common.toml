@@ -563,7 +563,7 @@
 	Emotes = true
 	"Dyeable Item Frames" = true
 	"Dragon Scales" = false
-	"Double Door Opening" = true
+	"Double Door Opening" = false
 	"Coral On Cactus" = true
 	"Compasses Work Everywhere" = true
 	"Campfires Boost Elytra" = false

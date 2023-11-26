@@ -1286,7 +1286,8 @@
         "item:guardvillagers:guard_spawn_egg",
         "item:guardvillagers:iron_golem_spawn_egg",
         "item:guardvillagers:snow_golem_spawn_egg",
-        "item:guardvillagers:illusioner_spawn_egg"
+        "item:guardvillagers:illusioner_spawn_egg",
+        "item:moreminecarts:coupler"
     ],
     "added": []
 }

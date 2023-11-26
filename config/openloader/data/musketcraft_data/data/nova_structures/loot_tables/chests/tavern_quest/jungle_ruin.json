@@ -21,7 +21,7 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Jungle Ruins Map"
+              "name": "Map to a Jungle Ruin"
             }
           ],
           "name": "minecraft:map"

@@ -96,7 +96,7 @@
 	#Increases the horse's movement speed.
 	[Enchantments.HorseSwiftness]
 		#Specifies whether this enchantment is obtainable in survival mode.
-		is_enabled = true
+		is_enabled = false
 		#Speed bonus multiplier per enchantment level.
 		#Range: 0.01 ~ 1.0
 		speed_bonus = 0.125

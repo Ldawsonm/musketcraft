@@ -21,7 +21,7 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Illager Hideout Map"
+              "name": "Map to an Underground Hideout"
             }
           ],
           "name": "minecraft:map"

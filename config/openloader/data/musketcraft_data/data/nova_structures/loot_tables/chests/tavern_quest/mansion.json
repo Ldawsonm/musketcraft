@@ -21,7 +21,7 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Mansion Map"
+              "name": "Map to a Mansion"
             }
           ],
           "name": "minecraft:map"

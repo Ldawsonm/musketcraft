@@ -1,3 +1,15 @@
+# Remove spring
+craftingTable.remove(<item:moreminecarts:coupler>);
+
+# Glass Item Frame
+craftingTable.remove(<item:quark:glass_item_frame>);
+val glass = <tag:items:forge:glass/colorless>;
+craftingTable.addShaped("glass_item_frame", <item:quark:glass_item_frame> * 2, [
+    [glass, glass, glass],
+    [glass, <item:minecraft:item_frame>, glass],
+    [glass, glass, glass]
+]);
+
 # SUBSTITUTE MATERIAL RECIPES
 
 # Gunpowder arrow recipe
@@ -150,3 +162,21 @@ craftingTable.addShaped("tracking_compass", <item:playertrackingcompass:tracking
     [[air, copper, air],
      [copper, <item:minecraft:redstone>, copper],
      [air, copper, air]]);
+
+# Netherrack Recipe
+val quartz = <item:minecraft:quartz>;
+val granite = <item:minecraft:granite>;
+craftingTable.addShaped("netherrack", <item:minecraft:netherrack>, [
+    [granite, quartz],
+    [quartz, granite]
+]);
+
+val hemp = <item:supplementaries:flax>;
+val spider_eye = <item:minecraft:spider_eye>;
+
+# Spider Eye Rope recipe
+craftingTable.addShaped("spider_eye_rope", <item:supplementaries:rope> * 6, [
+    [hemp],
+    [spider_eye],
+    [hemp]
+]);

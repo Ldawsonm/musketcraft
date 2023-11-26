@@ -1,5 +1,14 @@
 import crafttweaker.api.text.Component;
 import crafttweaker.api.text.MutableComponent;
+# Player Tracking Compass
+var compTip = Component.literal("Use to track the nearest player");
+compTip.setStyle(<constant:minecraft:formatting:gray>.asStyle());
+<item:playertrackingcompass:tracking_compass>.addTooltip(compTip);
+
+var compTip2 = Component.literal("Does not track within 10 blocks");
+compTip2.setStyle(<constant:minecraft:formatting:gray>.asStyle());
+<item:playertrackingcompass:tracking_compass>.addTooltip(compTip2);
+
 # Sail
 var sailTip = Component.literal("Used to craft ships");
 sailTip.setStyle(<constant:minecraft:formatting:gray>.asStyle());
@@ -17,9 +26,9 @@ saddleTip1.setStyle(<constant:minecraft:formatting:gray>.asStyle());
 var saddleTip2 = Component.literal("Press H to Call Personal Horse");
 saddleTip2.setStyle(<constant:minecraft:formatting:gray>.asStyle());
 <item:minecraft:saddle>.addTooltip(saddleTip2);
-var saddleTip3 = Component.literal("Press N to View Personal Horse Stats");
-saddleTip3.setStyle(<constant:minecraft:formatting:gray>.asStyle());
-<item:minecraft:saddle>.addTooltip(saddleTip3);
+// var saddleTip3 = Component.literal("Press N to View Personal Horse Stats");
+// saddleTip3.setStyle(<constant:minecraft:formatting:gray>.asStyle());
+// <item:minecraft:saddle>.addTooltip(saddleTip3);
 
 # sleeping bag
 var sleepingBagTip = Component.literal("Does not set a respawn point");
@@ -50,3 +59,4 @@ shipTip.setStyle(<constant:minecraft:formatting:gray>.asStyle());
 var shipTip2 = Component.literal("Press W/S to Lower/Raise");
 shipTip2.setStyle(<constant:minecraft:formatting:gray>.asStyle());
 <tag:items:smallships:ships>.asIIngredient().addTooltip(shipTip2);
+

@@ -38,8 +38,7 @@ craftingTable.addShapedMirrored("gold_hoe_revamped", <constant:minecraft:mirrora
 craftingTable.remove(<item:minecraft:leather_boots>);
 
 craftingTable.addShaped("feather_leather", <item:minecraft:leather_boots>.withTag({RepairCost: 1, Enchantments: [{lvl: 3, id: "minecraft:feather_falling"}]}), 
-    [[air, air, air],
-     [leather, air, leather],
+    [[leather, air, leather],
      [leather, air, leather]]);
 
 # GOLD HELMETS come with Aqua Affinity

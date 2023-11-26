@@ -363,30 +363,6 @@ customization {
 }
 
 customization {
-  path = fancymenu_setups/_images/lissa.png
-  orientation = element
-  orientation_element = 0976dadf-87a7-476f-8983-a06b367c5f041697501024326
-  x = -38
-  width = 46
-  action = addtexture
-  actionid = c0f96d28-80d8-4ab0-a002-2787206eba781697503242654
-  y = 21
-  height = 50
-}
-
-customization {
-  path = fancymenu_setups/_images/lissa2.png
-  orientation = element
-  orientation_element = a3196713-d3f5-45d3-9a55-1ffae537f8bd1697501609803
-  x = 123
-  width = 52
-  action = addtexture
-  actionid = 5f25f17f-39d4-454c-afba-6ce51e6cff4c1697503488646
-  y = 29
-  height = 60
-}
-
-customization {
   orientation = top-left
   loopbackgroundanimations = true
   restartbackgroundanimations = true
@@ -414,5 +390,27 @@ customization {
   action = addsplash
   y = 53
   text = Click me!
+}
+
+customization {
+  path = fancymenu_setups/_images/lissa_pirate_left.png
+  orientation = top-left
+  x = 499
+  width = 90
+  action = addtexture
+  actionid = f5357ad6-277a-4fac-8203-ca52e69389001700447660361
+  y = 78
+  height = 94
+}
+
+customization {
+  path = fancymenu_setups/_images/lissa_pirate_right.png
+  orientation = top-left
+  x = 64
+  width = 71
+  action = addtexture
+  actionid = 93569799-5114-4ce8-b280-02c238e9134e1700447688334
+  y = 243
+  height = 71
 }
 

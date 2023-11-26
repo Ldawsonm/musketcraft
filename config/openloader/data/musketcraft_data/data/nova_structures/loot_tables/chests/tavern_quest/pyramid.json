@@ -21,7 +21,7 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Pyramid Map"
+              "name": "Map to a Lost Pyramid"
             }
           ],
           "name": "minecraft:map"

@@ -19,19 +19,18 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
-  orientation = bottom-centered
-  x = -102
+  identifier = %id=398354%
+  orientation = mid-centered
+  x = 4
   action = movebutton
-  y = -152
+  y = -29
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
-  orientation = bottom-centered
-  x = 4
-  action = movebutton
-  y = -199
+  identifier = %id=398354%
+  width = 98
+  action = resizebutton
+  height = 20
 }
 
 customization {
@@ -48,6 +47,19 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  orientation = bottom-centered
+  x = -102
+  action = movebutton
+  y = -153
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
+  action = hidebutton
+}
+
+customization {
   orientation = top-left
   loopbackgroundanimations = true
   restartbackgroundanimations = true
@@ -59,10 +71,5 @@ customization {
   y = 163
   label = Tutorial
   height = 20
-}
-
-customization {
-  identifier = %id=398354%
-  action = hidebutton
 }
 

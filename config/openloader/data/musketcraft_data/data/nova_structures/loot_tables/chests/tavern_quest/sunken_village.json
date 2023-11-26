@@ -21,7 +21,7 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Sunken Village Map"
+              "name": "Map to a Sunken Village"
             }
           ],
           "name": "minecraft:map"
