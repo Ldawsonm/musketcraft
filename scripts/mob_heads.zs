@@ -1,3 +1,5 @@
+import mods.jeitweaker.Jei;
+
 val dropsToHeads = {
     <item:minecraft:spider_eye>: <item:minecraft:player_head>.withTag({SkullOwner:"MHF_Spider"}),
     <item:minecraft:bone>: <item:minecraft:skeleton_skull>,
@@ -16,6 +18,8 @@ val dropsToHeads = {
     <item:minecraft:emerald>: <item:minecraft:player_head>.withTag({SkullOwner:"MHF_Villager"})
 };
 
+
+
 var counter = 1;
 for mat,head in dropsToHeads {
     craftingTable.addShaped("mob_head" + counter, head, [
@@ -26,13 +30,17 @@ for mat,head in dropsToHeads {
     counter += 1;
 }
 
-
 # Herobrine Head
 val netherrack = <item:minecraft:netherrack>;
 val goldBlock = <item:minecraft:gold_block>;
 val rsTorch = <item:minecraft:redstone_torch>;
-craftingTable.addShaped("hewobrian", <item:minecraft:player_head>.withTag({SkullOwner:"MHF_Herobrine"}), [
+craftingTable.addShaped("mob_hewobrian", <item:minecraft:player_head>.withTag({SkullOwner:"MHF_Herobrine"}), [
     [goldBlock, rsTorch, goldBlock],
     [rsTorch, netherrack, rsTorch],
     [goldBlock, rsTorch, goldBlock]
 ]);
+
+// # Hide herobrine head recipe
+// Jei.hideRecipe(<resource:minecraft:crafting>, <resource:crafttweaker:mob_hewobrian>);
+// Jei.hideIngredient(<item:minecraft:player_head>.withTag({SkullOwner:"MHF_Herobrine"}));
+

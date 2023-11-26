@@ -166,7 +166,7 @@ craftingTable.addShaped("tracking_compass", <item:playertrackingcompass:tracking
 # Netherrack Recipe
 val quartz = <item:minecraft:quartz>;
 val granite = <item:minecraft:granite>;
-craftingTable.addShaped("netherrack", <item:minecraft:netherrack>, [
+craftingTable.addShaped("netherrack", <item:minecraft:netherrack> * 2, [
     [granite, quartz],
     [quartz, granite]
 ]);

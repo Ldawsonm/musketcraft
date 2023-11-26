@@ -1,12 +1,31 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:minecraft:player_head",
+    {
+      "type": "item",
+      "id": "minecraft:poppy",
+      "amount": 56
+    },
+    "item:minecraft:lapis_lazuli",
+    "item:minecraft:mutton",
+    "item:minecraft:zombie_head",
+    "item:supplementaries:rope",
+    {
+      "type": "item",
+      "id": "minecraft:andesite",
+      "amount": 2
+    },
+    "item:minecraft:cobblestone",
+    "item:minecraft:quartz",
+    "item:minecraft:diorite",
+    "item:minecraft:granite",
+    "item:minecraft:netherrack",
+    "item:minecraft:magma_cream",
+    "item:storagedrawers:oak_full_drawers_1",
     "item:minecraft:lodestone",
     "item:minecraft:brown_mushroom",
     "item:minecraft:spider_eye",
-    "item:supplementaries:rope",
-    "item:minecraft:player_head",
-    "item:minecraft:lapis_lazuli",
     "item:quark:glass_item_frame",
     "item:minecraft:item_frame",
     "item:minecraft:glass",
@@ -15,11 +34,6 @@
     "item:minecraft:white_stained_glass",
     "item:quark:glowing_glass_item_frame",
     "item:moreminecarts:coupler",
-    "item:minecraft:quartz",
-    "item:minecraft:netherrack",
-    "item:minecraft:diorite",
-    "item:minecraft:granite",
-    "item:minecraft:cobblestone",
     {
       "type": "item",
       "id": "minecraft:brick",
@@ -311,7 +325,6 @@
     "item:minecraft:green_dye",
     "item:minecraft:blue_dye",
     "item:minecraft:azure_bluet",
-    "item:storagedrawers:oak_full_drawers_1",
     "item:quark:crate",
     "item:minecraft:redstone_block",
     "item:minecraft:sugar",
@@ -384,7 +397,6 @@
     },
     "item:minecraft:netherite_ingot",
     "item:minecraft:golden_axe{Damage:0}",
-    "item:minecraft:andesite",
     "#item:forge:stone",
     "item:quark:orange_rune",
     "item:quark:blank_rune",
@@ -508,7 +520,6 @@
       "remainder": "item:minecraft:glass_bottle"
     },
     "item:minecraft:honey_block",
-    "item:minecraft:magma_cream",
     "item:minecraft:recovery_compass",
     "item:minecraft:echo_shard",
     "item:supplementaries:wrench{Damage:0}",
@@ -540,7 +551,7 @@
     "item:quark:orange_crystal_lamp"
   ],
   "craft_history": [
-    "crafttweaker:mob_head6",
+    "crafttweaker:mob_head5",
     "pots_and_mimics:decorative_pot",
     "crafttweaker:sensible_kiln",
     "quark:building/crafting/furnaces/cobblestone_furnace",
@@ -637,6 +648,7 @@
   ],
   "recipe_defaults": {
     "added": [
+      "supplementaries:rope",
       "minecraft:clock"
     ],
     "tags": {},

@@ -1,20 +1,20 @@
 {
   "minecraft": {
     "block_inventory.detailed_amount": 9,
-    "furnace": false,
+    "furnace": true,
     "harvest_tool.show_unbreakable": false,
     "chicken_egg": false,
     "block_inventory.items_per_line": 9,
     "jukebox": true,
     "brewing_stand": false,
     "animal_owner": false,
-    "block_inventory.normal_amount": 1,
+    "block_inventory.normal_amount": 9,
     "energy_storage.detailed": false,
     "harvest_tool.effective_tool": false,
     "note_block": true,
     "beehive": true,
     "block_inventory.show_name_amount": 0,
-    "block_inventory": false,
+    "block_inventory": true,
     "player_head": true,
     "block_states": false,
     "lectern": false,
@@ -46,6 +46,9 @@
     "mob_spawner": true,
     "redstone": true
   },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -53,6 +56,9 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": false
+  },
+  "lootr": {
+    "info": true
   },
   "storagedrawers": {
     "display.stacklimit": true,
