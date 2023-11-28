@@ -180,3 +180,13 @@ craftingTable.addShaped("spider_eye_rope", <item:supplementaries:rope> * 6, [
     [spider_eye],
     [hemp]
 ]);
+
+val redstone = <item:minecraft:redstone>;
+
+# CAMERA RECIPE FIX
+craftingTable.remove(<item:camera:camera>);
+craftingTable.addShaped("better_camera", <item:camera:camera>, [
+    [iron, redstone, iron],
+    [iron, glass, iron],
+    [iron, iron, iron]
+]);

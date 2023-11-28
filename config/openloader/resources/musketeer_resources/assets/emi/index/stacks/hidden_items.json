@@ -1287,7 +1287,11 @@
         "item:guardvillagers:iron_golem_spawn_egg",
         "item:guardvillagers:snow_golem_spawn_egg",
         "item:guardvillagers:illusioner_spawn_egg",
-        "item:moreminecarts:coupler"
+        "item:moreminecarts:coupler",
+        "item:horse_colors:gender_change_item",
+        "item:horse_colors:horse_spawn_egg",
+        "item:horse_colors:donkey_spawn_egg",
+        "item:horse_colors:mule_spawn_egg"
     ],
     "added": []
 }

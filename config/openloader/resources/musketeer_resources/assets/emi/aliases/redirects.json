@@ -44,7 +44,8 @@
         		"item:minecraft:anvil",
 				"item:playertrackingcompass:tracking_compass",
 				"item:smallships:sail",
-				"item:comforts:hammock_white"
+				"item:comforts:hammock_white",
+				"item:camera:camera"
 			],
 			"text": [
 				"MusketCraft's Tools",

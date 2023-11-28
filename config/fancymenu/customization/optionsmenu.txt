@@ -13,18 +13,3 @@ customization {
   action = backgroundoptions
 }
 
-customization {
-  orientation = element
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  orientation_element = vanillabtn:345280
-  buttonaction = mimicbutton;net.minecraft.client.gui.screens.PauseScreen:398354%btnaction_splitter_fm%
-  x = 106
-  width = 100
-  action = addbutton
-  actionid = 4f7ebf38-d347-4ee7-aec8-7e8a5fcabf181700418632587
-  y = 26
-  label = Configure Mods
-  height = 20
-}
-

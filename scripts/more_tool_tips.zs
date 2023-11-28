@@ -1,5 +1,10 @@
 import crafttweaker.api.text.Component;
 import crafttweaker.api.text.MutableComponent;
+# Camera
+var camTip = Component.literal("Uses Paper for Photos");
+camTip.setStyle(<constant:minecraft:formatting:gray>.asStyle());
+<item:camera:camera>.addTooltip(camTip);
+
 # Player Tracking Compass
 var compTip = Component.literal("Use to track the nearest player");
 compTip.setStyle(<constant:minecraft:formatting:gray>.asStyle());
