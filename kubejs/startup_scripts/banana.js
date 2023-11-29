@@ -29,7 +29,7 @@ StartupEvents.registry('item', event => {
         .hunger(7)
         .saturation(0.65)
     })
-    event.create('banana_chips').displayName('Banana Chips').food(food => {
+    event.create('banana_chips').displayName('Dried Banana Chips').food(food => {
         food
         .hunger(5)
         .saturation(0.8)

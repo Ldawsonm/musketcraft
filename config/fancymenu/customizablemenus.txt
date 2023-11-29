@@ -24,3 +24,6 @@ net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen {
 net.minecraft.client.gui.screens.OptionsScreen {
 }
 
+net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen {
+}
+

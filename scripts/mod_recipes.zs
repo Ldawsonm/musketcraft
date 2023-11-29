@@ -8,12 +8,12 @@ var air = <item:minecraft:air>;
 var planks = <tag:items:minecraft:planks>;
 
 // Backpack but more expensive
-craftingTable.remove(backpack);
-craftingTable.addShaped("backpack_but_expensive",
-		backpack,
-		[[leather, iron, leather],
-		 [leather, chest, leather],
-		 [leather, diamond, leather]]);
+// craftingTable.remove(backpack);
+// craftingTable.addShaped("backpack_but_expensive",
+// 		backpack,
+// 		[[leather, iron, leather],
+// 		 [leather, chest, leather],
+// 		 [leather, diamond, leather]]);
 
 // Drawers with Iron
 // craftingTable.remove(drawers);

@@ -30,7 +30,6 @@
 				"item:quark:torch_arrow",
 				"item:quark:slime_in_a_bucket",
 				"item:quark:abacus",
-				"item:quark:backpack{Inventory:[{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}]}",
 				"item:supplementaries:wrench{Damage:0}",
 				"item:minecraft:tnt",
 				"item:minecraft:dirt_path",
@@ -45,7 +44,9 @@
 				"item:playertrackingcompass:tracking_compass",
 				"item:smallships:sail",
 				"item:comforts:hammock_white",
-				"item:camera:camera"
+				"item:camera:camera",
+				"item:sophisticatedbackpacks:backpack",
+				"item:minecraft:lapis_lazuli"
 			],
 			"text": [
 				"MusketCraft's Tools",

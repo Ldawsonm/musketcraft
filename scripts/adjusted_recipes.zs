@@ -190,3 +190,17 @@ craftingTable.addShaped("better_camera", <item:camera:camera>, [
     [iron, glass, iron],
     [iron, iron, iron]
 ]);
+
+
+# Backpack
+craftingTable.removeByModid("sophisticatedbackpacks");
+
+val leather = <item:minecraft:leather>;
+val gold = <item:minecraft:gold_ingot>;
+val diamond = <item:minecraft:diamond>;
+
+craftingTable.addShaped("new_backpack", <item:sophisticatedbackpacks:backpack>, [
+    [leather, gold, leather],
+    [leather, <tag:items:forge:chests/wooden>, leather],
+    [leather, diamond, leather]
+]);
