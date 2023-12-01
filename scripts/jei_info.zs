@@ -14,7 +14,6 @@ i(<item:minecraft:blaze_powder>, "blaze_powder");
 i(<item:minecraft:brewing_stand>, "brewing_stand");
 i(<item:minecraft:cactus>, "cactus");
 i(<item:minecraft:crimson_fungus>, "fungus");
-i(<item:minecraft:dirt_path>, "path");
 i(<item:minecraft:emerald>, "emerald");
 i(<item:minecraft:ender_eye>, "ender_eye");
 i(<item:minecraft:glowstone_dust>, "glowstone_dust");

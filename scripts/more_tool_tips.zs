@@ -121,3 +121,13 @@ backpackTip3.setStyle(<constant:minecraft:formatting:dark_gray>.asStyle());
 var backpackTip4 = Component.literal("Crouch + Right click to place");
 backpackTip4.setStyle(<constant:minecraft:formatting:dark_gray>.asStyle());
 <item:sophisticatedbackpacks:backpack>.addShiftTooltip(backpackTip4);
+
+# Cannon tooltip
+var cannonTip = Component.literal("Press Space to shoot the cannon while in a ship");
+cannonTip.setStyle(<constant:minecraft:formatting:dark_gray>.asStyle());
+<item:smallships:cannon>.addShiftTooltip(cannonTip, controlTip);
+
+# Wrench tooltip
+var wrenchTip = Component.literal("Rotates Blocks");
+wrenchTip.setStyle(<constant:minecraft:formatting:dark_gray>.asStyle());
+<item:supplementaries:wrench>.addTooltip(wrenchTip);

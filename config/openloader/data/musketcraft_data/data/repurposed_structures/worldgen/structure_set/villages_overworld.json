@@ -254,31 +254,31 @@
 		},
     {
 			"structure": "nova_structures:tavern_acacia",
-			"weight": 3
+			"weight": 2
 		},
     {
 			"structure": "nova_structures:tavern_birch",
-			"weight": 3
+			"weight": 2
 		},
     {
 			"structure": "nova_structures:tavern_dark_oak",
-			"weight": 3
+			"weight": 2
 		},
     {
 			"structure": "nova_structures:tavern_desert",
-			"weight": 3
+			"weight": 2
 		},
     {
 			"structure": "nova_structures:tavern_mangrove",
-			"weight": 3
+			"weight": 2
 		},
     {
 			"structure": "nova_structures:tavern_oak",
-			"weight": 3
+			"weight": 2
 		},
     {
 			"structure": "nova_structures:tavern_spruce",
-			"weight": 3
+			"weight": 2
 		},
     {
 			"structure": "nova_structures:jungle_ruins",

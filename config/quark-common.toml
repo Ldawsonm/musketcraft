@@ -1782,7 +1782,7 @@
 		"Disable Offset" = false
 
 [oddities]
-	"Totem Of Holding" = true
+	"Totem Of Holding" = false
 	"Tiny Potato" = true
 	Pipes = true
 	"Matrix Enchanting" = false
