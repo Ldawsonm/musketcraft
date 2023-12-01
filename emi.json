@@ -1,6 +1,32 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:sculked:sculked_bone",
+    "item:sculked:layered_sculk",
+    "item:sculked:cut_echo_copper_block",
+    "item:sculked:echo_copper_block",
+    "item:sculked:vibestone",
+    "item:sculked:sculk_paste",
+    "item:sculked:sculked_bone_tile_slab",
+    "item:sculked:pillared_sculk",
+    "item:sculked:sculked_bone_block",
+    "item:sculked:sculked_bone_cage",
+    "item:sculked:deepslate_vase",
+    "item:sculked:deepslate_bookshelf",
+    "item:sculked:echo_copper",
+    "item:minecraft:echo_shard",
+    "item:sculked:echo_glass",
+    {
+      "type": "item",
+      "id": "minecraft:rotten_flesh",
+      "amount": 4
+    },
+    "item:quark:orange_crystal_lamp",
+    {
+      "type": "item",
+      "id": "minecraft:slime_ball",
+      "amount": 7
+    },
     "item:minecraft:basalt",
     "item:minecraft:polished_basalt",
     "item:minecraft:white_wool",
@@ -12,7 +38,6 @@
     "item:smallships:cannon",
     "item:minecraft:recovery_compass",
     "item:minecraft:red_nether_bricks",
-    "item:minecraft:echo_shard",
     "item:minecraft:redstone",
     "item:minecraft:amethyst_shard",
     "item:kubejs:banana_split",
@@ -35,11 +60,6 @@
     "item:quark:prismarine_chest",
     "item:minecraft:prismarine",
     "item:minecraft:prismarine_shard",
-    {
-      "type": "item",
-      "id": "minecraft:rotten_flesh",
-      "amount": 2
-    },
     "item:map_atlases:atlas",
     "item:minecraft:magma_block",
     "item:minecraft:blaze_powder",
@@ -170,7 +190,6 @@
     "item:minecraft:mud_bricks",
     "item:quark:blackstone_furnace",
     "item:minecraft:slime_block",
-    "item:minecraft:slime_ball",
     "item:quark:permafrost",
     "item:windswept:yellow_rose_bush",
     "#item:forge:milk",
@@ -588,8 +607,7 @@
     "item:minecraft:iron_block",
     "item:minecraft:netherite_scrap",
     "item:minecraft:polished_granite",
-    "item:quark:orange_corundum",
-    "item:quark:orange_crystal_lamp"
+    "item:quark:orange_corundum"
   ],
   "craft_history": [
     "crafttweaker:mob_head4",
@@ -686,8 +704,8 @@
   ],
   "recipe_defaults": {
     "added": [
-      "minecraft:clock",
-      "supplementaries:rope"
+      "supplementaries:rope",
+      "minecraft:clock"
     ],
     "tags": {},
     "resolutions": {},

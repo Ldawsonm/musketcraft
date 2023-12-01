@@ -9,7 +9,8 @@ val enchant_upgrades = {
     "minecraft:bane_of_arthropods" : <item:minecraft:spider_eye>,
     "minecraft:fire_protection" : <item:minecraft:magma_block>,
     "minecraft:blast_protection" : <item:minecraft:gunpowder>,
-    "minecraft:soul_speed": <item:minecraft:soul_soil>
+    "minecraft:soul_speed": <item:minecraft:soul_soil>,
+    "minecraft:swift_sneak": <item:minecraft:echo_shard>
 };
 
 # REMOVE THE ENCHANTMENT TABLE
