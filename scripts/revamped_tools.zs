@@ -24,7 +24,7 @@ craftingTable.addShapedMirrored("gold_axe_revamped", <constant:minecraft:mirrora
      [gold, stick, air],
      [air, stick, air]]);
 
-craftingTable.addShaped("gold_shovel_revamped", <item:minecraft:golden_pickaxe>.withTag({RepairCost: 1, Enchantments: [{lvl: 1, id: "minecraft:silk_touch"}]}), 
+craftingTable.addShaped("gold_shovel_revamped", <item:minecraft:golden_shovel>.withTag({RepairCost: 1, Enchantments: [{lvl: 1, id: "minecraft:silk_touch"}]}), 
     [[air, gold, air],
      [air, stick, air],
      [air, stick, air]]);

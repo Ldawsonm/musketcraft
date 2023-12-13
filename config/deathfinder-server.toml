@@ -24,7 +24,7 @@
 	#Normal player can only teleport to their own death position once in a given time frame, if enabled.
 	#Operators can teleport to any death position without limitations, if enabled.
 	#Allowed Values: NO_ONE, OPERATORS_ONLY, EVERYONE
-	allow_teleporting = "NO_ONE"
+	allow_teleporting = "OPERATORS_ONLY"
 	#Add distance component to death messages.
 	distance_component = false
 	#Add dimension component to death messages.

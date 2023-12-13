@@ -3,7 +3,7 @@ var blaze_rod = <item:minecraft:blaze_rod>;
 blaze_rod.setBurnTime(0);
 <tag:items:forge:rods>.remove(blaze_rod);
 
-craftingTable.addShapeless("monster_mash", blaze_rod,  [<item:minecraft:gunpowder>, <item:minecraft:rotten_flesh>, <item:minecraft:bone>, <item:minecraft:spider_eye>]);
+craftingTable.addShapeless("monster_mash", blaze_rod,  [<item:minecraft:gunpowder>, <item:minecraft:rotten_flesh>, <item:minecraft:bone>, <item:minecraft:spider_eye>, <item:minecraft:slime_ball>]);
 
 # Monster Mash Variants
 

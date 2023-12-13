@@ -31,7 +31,7 @@ showDebugMessagesInChat = false
 
 ["Harvest crops"]
 	#If true, you will get experience after harvest wheat, carrot, potato, beetroot, pumpkin or melon.
-	1_EnableExpWhenHarvestCrops = true
+	1_EnableExpWhenHarvestCrops = false
 	#Min exp you can receive after harvest a crop.
 	HarvestMinExperience = 1
 	#Max exp you can receive after harvest a crop.
@@ -55,5 +55,5 @@ showDebugMessagesInChat = false
 	#If true, you will get experience after sleeping in bed.
 	1_EnableExpWhenSleep = false
 	#Exp you get when you wake up after sleeping on a bed.
-	ExpForSleep = 5
+	ExpForSleep = 0
 

@@ -63,9 +63,6 @@
   "camera": {
     "image_frame": true
   },
-  "corpse": {
-    "corpse": true
-  },
   "storagedrawers": {
     "display.stacklimit": true,
     "display.content": true,

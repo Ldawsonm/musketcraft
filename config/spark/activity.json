@@ -5,32 +5,6 @@
       "name": "LDawsonM2012",
       "uniqueId": "6bfd8567-d25e-4e1a-b33e-81fbf42bf1a0"
     },
-    "time": 1701411973240,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/AR1JAfccms"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "LDawsonM2012",
-      "uniqueId": "6bfd8567-d25e-4e1a-b33e-81fbf42bf1a0"
-    },
-    "time": 1701203845624,
-    "type": "Heap dump summary",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/1ShlpWG5hb"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "LDawsonM2012",
-      "uniqueId": "6bfd8567-d25e-4e1a-b33e-81fbf42bf1a0"
-    },
     "time": 1701135881456,
     "type": "Profiler",
     "data": {

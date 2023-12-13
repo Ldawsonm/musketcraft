@@ -40,15 +40,6 @@ customization {
 }
 
 customization {
-  identifier = %id=610258%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_return_to_game_button
-  x = 208
-  action = movebutton
-  y = 0
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
   orientation = element
   orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_advancements_button
@@ -67,6 +58,11 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
+  action = hidebutton
+}
+
+customization {
   orientation = element
   loopbackgroundanimations = true
   restartbackgroundanimations = true
@@ -82,7 +78,11 @@ customization {
 }
 
 customization {
-  identifier = %id=504330%
-  action = hidebutton
+  identifier = %id=610258%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_return_to_game_button
+  x = 208
+  action = movebutton
+  y = 0
 }
 

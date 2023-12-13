@@ -2,11 +2,15 @@
     {
         "mob": "minecraft:slime",
         "weather": "thunder",
+        "random": 0.7,
+        "seesky": true,
         "result":"allow"
     },
     {
         "mob": "minecraft:slime",
         "weather": "rain",
+        "random": 0.7,
+        "seesky": true,
         "result":"allow"
     },
     {

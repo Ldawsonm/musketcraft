@@ -1,3 +1,4 @@
+
 var air = <item:minecraft:air>;
 var activator_rail = <item:minecraft:activator_rail>;
 var amethyst_shard = <item:minecraft:amethyst_shard>;
@@ -125,14 +126,14 @@ for type in game.recipeTypes {
 }
 
 furnace.addRecipe("smelt_nether_bricks", nether_bricks, netherrack, 0.1, 200);
-craftingTable.addShaped("nether_brick_fence_brickless", 
-		nether_brick_fence * 3, 
-		[[nether_bricks, nether_brick_slab, nether_bricks],
-		[nether_bricks, nether_brick_slab, nether_bricks]]);
-craftingTable.addShaped("nether_brick_fence_gate_brickless", 
-		nether_brick_fence_gate, 
-		[[nether_brick_slab, nether_bricks, nether_brick_slab],
-		[nether_brick_slab, nether_bricks, nether_brick_slab]]);
+// craftingTable.addShaped("nether_brick_fence_brickless", 
+// 		nether_brick_fence * 3, 
+// 		[[nether_bricks, nether_brick_slab, nether_bricks],
+// 		[nether_bricks, nether_brick_slab, nether_bricks]]);
+// craftingTable.addShaped("nether_brick_fence_gate_brickless", 
+// 		nether_brick_fence_gate, 
+// 		[[nether_brick_slab, nether_bricks, nether_brick_slab],
+// 		[nether_brick_slab, nether_bricks, nether_brick_slab]]);
 
 // Remove Magma Cream recipe to prevent looping with magma powder
 craftingTable.remove(magma_cream);

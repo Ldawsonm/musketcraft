@@ -319,17 +319,16 @@ customization {
 
 customization {
   orientation = mid-centered
-  restartbackgroundanimations = true
-  buttonaction = opengui;tutorial%btnaction_splitter_fm%
-  description = Open Me!
-  label = Tutorial
   loopbackgroundanimations = true
   hoverlabel = Tutorial
+  restartbackgroundanimations = true
+  buttonaction = opengui;tutorial%btnaction_splitter_fm%
   x = -45
   width = 90
   action = addbutton
   actionid = 26840d08-ca8a-42c7-a3b1-426f996af5a21686592101865
   y = -10
+  label = Tutorial
   height = 20
 }
 
@@ -402,7 +401,6 @@ customization {
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:3fa3ef46-195a-44bb-83a6-6ed7403f5e231697503605486] = seen_tutorial:true
   restartbackgroundanimations = true
   buttonaction = join_last_world%btnaction_splitter_fm%
-  description = Join the last world/server you played on
   label = Last World
   loopbackgroundanimations = true
   orientation_element = 26840d08-ca8a-42c7-a3b1-426f996af5a21686592101865
@@ -426,5 +424,10 @@ customization {
   y = 8
   tick_mode = on_menu_load
   height = 14
+}
+
+customization {
+  identifier = %id=44%
+  action = hidebutton
 }
 
