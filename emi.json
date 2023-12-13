@@ -1,6 +1,10 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:goldenhopper:golden_hopper",
+    "item:minecraft:hopper",
+    "item:goldenhopper:golden_hopper_minecart",
+    "item:enderstorage:ender_chest",
     "item:storagedrawers:oak_full_drawers_1",
     "item:quark:crate",
     "item:minecraft:dripstone_block",
@@ -531,7 +535,6 @@
     },
     "item:smallships:cannon_ball",
     "item:quark:trowel",
-    "item:minecraft:hopper",
     "item:minecraft:piston",
     "item:minecraft:black_dye",
     "#item:minecraft:planks",
@@ -985,6 +988,8 @@
     "item:sophisticatedbackpacks:pump_upgrade",
     "item:sophisticatedbackpacks:advanced_pump_upgrade",
     "item:sophisticatedbackpacks:xp_pump_upgrade",
-    "item:sophisticatedbackpacks:upgrade_base"
+    "item:sophisticatedbackpacks:upgrade_base",
+    "item:enderstorage:ender_pouch",
+    "item:enderstorage:ender_tank"
   ]
 }

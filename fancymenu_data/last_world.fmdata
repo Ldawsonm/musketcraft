@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = true
-  world = groovygoblins.servebeer.com:25565
+  is_server = false
+  world = C:/Users/ldmar/curseforge/minecraft/Instances/Musketeer - One for All/saves/Creative Builds
 }
 
