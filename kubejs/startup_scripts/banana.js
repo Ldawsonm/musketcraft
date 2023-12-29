@@ -13,6 +13,7 @@ StartupEvents.registry('item', event => {
         .saturation(1.125)
         .removeEffect('poison')
         .removeEffect('wither')
+        .alwaysEdible()
         .effect('regeneration', 100, 0, 2)
         .effect('haste', 2400, 0, 1)
     })
