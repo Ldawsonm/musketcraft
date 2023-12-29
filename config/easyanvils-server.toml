@@ -17,7 +17,7 @@
 [costs]
 	#Multiplier for each level of a rare enchantment being applied.
 	#Range: > 1
-	rare_enchantment_multiplier = 4
+	rare_enchantment_multiplier = 2
 	#The additional cost in levels for combining an item with another item of the same kind when the first item is not fully repaired.
 	#Range: > -2147483648
 	repair_with_other_item_cost = 0
@@ -26,10 +26,10 @@
 	common_enchantment_multiplier = 1
 	#Multiplier for each level of a very rare enchantment being applied.
 	#Range: > 1
-	very_rare_enchantment_multiplier = 6
+	very_rare_enchantment_multiplier = 3
 	#Multiplier for each level of a uncommon enchantment being applied.
 	#Range: > 1
-	uncommon_enchantment_multiplier = 2
+	uncommon_enchantment_multiplier = 1
 	#Costs for applying enchantments from enchanted books are halved.
 	halved_book_costs = true
 	#The additional cost in levels for each valid repair material an item is repaired with in an anvil.
